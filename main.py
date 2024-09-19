@@ -1,4 +1,5 @@
 # %%
+from datetime import datetime, timedelta
 import json
 import os
 from typing import Any
@@ -7,13 +8,13 @@ from flask_cors import CORS
 from openai import OpenAI
 from dotenv import load_dotenv
 
-from gen_product_list import gen_product_list
+from db import Conversation
 
 # %%
 # Input API keys
 load_dotenv()
 
-MY_OPENAI_KEY = os.getenv('MY_OPENAI_KEY')
+MY_OPENAI_KEY = os.getenv("MY_OPENAI_KEY")
 openai_client = OpenAI(
     api_key=MY_OPENAI_KEY,
 )
@@ -22,11 +23,13 @@ openai_client = OpenAI(
 # Customize your product list if necessary.
 # gen_product_list()
 with open("product_list.json", "r") as r:
-  product_list = json.loads(r.read())
+    product_list = json.loads(r.read())
 
-context = [{'role': 'system',
-            'content': f"""
-Bạn là ShopBot, trợ lý AI cho shop thời trang trực tuyến của tôi - Lmao.
+context = [
+    {
+        "role": "system",
+        "content": f"""
+Bạn là ShopBot, trợ lý AI cho shop thời trang trực tuyến của tôi - Boo2nd.
 
 Vai trò của bạn là hỗ trợ khách hàng duyệt sản phẩm, cung cấp thông tin và hướng dẫn họ thực hiện quy trình thanh toán.
 
@@ -38,10 +41,13 @@ Hãy thoải mái hỏi khách hàng về sở thích của họ, giới thiệu
 
 Danh sách sản phẩm hiện tại được giới hạn như sau:
 
-```{product_list[0:5]}```
+```{product_list[0:2]}```
 
 Làm cho trải nghiệm mua sắm trở nên thú vị và khuyến khích khách hàng liên hệ nếu họ có bất kỳ câu hỏi nào hoặc cần hỗ trợ.
-"""}]
+""",
+    }
+]
+
 
 # %%
 # Create a Chatbot
@@ -53,21 +59,87 @@ def get_completion_from_messages(messages, model="gpt-3.5-turbo"):
     )
     return chat_completion.choices[0].message.content
 
+
 app = Flask(__name__)
-CORS(app, origins="*",  supports_credentials=True)
+CORS(app, origins="*", supports_credentials=True)
+
+
+def log(msg: Any):
+    print(msg, flush=True)
+
 
 @app.post("/chatbot")
 def get_msg():
     data: Any = request.json
-    conversation: list[str] = data.get('conversation')
-    for (i, msg) in enumerate(conversation):
-        context.append({'role': 'user' if i % 2 == 0 else 'assistant', 'content':f"{msg}"})
+    user_id: str | None = data.get("user_id")
+    conversation: list[str] = []
+    if user_id is None:
+        conversation = data.get("conversation")
+        print(conversation, flush=True)
+    else:
+        for x in Conversation.objects(user_id=user_id):
+            conversation.append(x.msg["user_msg"]["content"])
+            conversation.append(x.msg["bot_reply"]["content"])
+        msg: str = data.get("msg")
+        conversation.append(msg)
+    print(conversation, flush=True)
+    for i, msg in enumerate(conversation):
+        context.append(
+            {"role": "user" if i % 2 == 0 else "assistant", "content": f"{msg}"}
+        )
 
     response = get_completion_from_messages(context)
+    # response = "1"
     for _ in range(0, len(conversation)):
         context.pop()
-    return jsonify(response)
 
-app.run(port=3000, host="127.0.0.1", debug=True)
+    if response is None:
+        return jsonify({"msg": "can't not get response from chatgpt"}), 500
+
+    time_now = datetime.now() + timedelta(hours=-7)
+    if user_id is not None:
+        Conversation(
+            user_id=user_id,
+            msg={
+                "user_msg": {"content": msg, "time": data.get("time")},
+                "bot_reply": {
+                    "content": response,
+                    "time": time_now,
+                },
+            },
+        ).save()
+    return jsonify({
+        "content": response,
+        "time": time_now
+    })
 
 
+@app.post("/chatbot/reset")
+def reset_conversation():
+    data: Any = request.json
+    user_id: str | None = data.get("user_id")
+
+    if user_id is None:
+        return "No user_id found", 400
+
+    Conversation.objects(user_id=user_id).delete()
+    return "ok"
+
+
+@app.post("/chatbot/get-all-messages")
+def get_all_messages():
+    data: Any = request.json
+    user_id: str | None = data.get("user_id")
+
+    if user_id is None:
+        return "No user_id found", 400
+
+    conversation = []
+    for x in Conversation.objects(user_id=user_id):
+        conversation.append(x.msg["user_msg"])
+        conversation.append(x.msg["bot_reply"])
+
+    return conversation
+
+
+app.run(port=int(os.getenv("PORT") or 1204), host="127.0.0.1", debug=True)

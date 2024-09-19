@@ -1,2385 +1,877 @@
 [
     {
-        "ProductID": 43,
-        "ProductName": "Áo Khoác Phao Nam, Dày Dặn, Trượt Nước",
-        "productPrice": 1189000,
-        "ProductDescription": "Chiếc áo khoác phao chần bông sử dụng chất liệu Poly ứng dụng công nghệ GORE-TEX trượt nước nhẹ, cản gió hiệu quả, giữ nhiệt, ấm áp tức thì. Thiết kế đường chỉ chần cách điệu nổi bật, mũ trùm có chốt cố định, tay áo bo chun dày dặn, có nhám hạn chế gió lùa tối đa; hình in silicon cao cấp khỏe khoắn. Bảng màu đa dạng, thiết kế thông minh, basic dễ mặc phù hợp trong nhiều hoàn cảnh.",
-        "Sizes": [
+        "name": "triple-s trainers",
+        "condition": "94",
+        "category": "sneakers",
+        "description": "Giày đã được sử dụng nhưng vẫn còn rất tốt. Đế giày có dấu hiệu mòn nhẹ, nhưng vẫn đảm bảo chất lượng sử dụng. Bề mặt giày có thể có vài vết xước hoặc vết bẩn nhỏ, nhưng không ảnh hưởng đến hình thức chung.",
+        "gender": "For Men",
+        "price": 19000,
+        "countInStock": 15,
+        "sizes": [
             {
-                "SizeName": "S",
-                "Quantity": 39
+                "name": "38",
+                "count": 0
             },
             {
-                "SizeName": "M",
-                "Quantity": 49
+                "name": "39",
+                "count": 2
             },
             {
-                "SizeName": "L",
-                "Quantity": 43
+                "name": "40",
+                "count": 2
             },
             {
-                "SizeName": "XL",
-                "Quantity": 83
-            }
-        ]
-    },
-    {
-        "ProductID": 44,
-        "ProductName": "Áo Khoác Phao Nam, Dày Dặn, Cản Gió, Cản Bụi",
-        "productPrice": 999000,
-        "ProductDescription": "Nằm trong BST Thu đông 2023 nhà, áo khoác ATHLETIC ngoài các tính năng đầy đủ của một chiếc áo khoác cap cấp: dày dặn, trượt nước, giữ nhiệt, giữ ấm cực tốt; còn mang một thiết kế biệt với phần mặt ngoài trơn mịn, mặt trong chần bông dày dặn, chắc chắn, đem đến một phong cách hoàn toàn mới so với áo chần bông thông thường, khỏe khoắn hơn, thời trang, năng động hơn. Phần túi ngực ngoài may khóa ẩn phối logo hãng in sắc nét, mũ trùm đầu có chốt cố định hạn chế gió lùa, cổ trụ cao ấm áp. Một item không thể thiếu cho mùa đông này!",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 39
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 83
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 38
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 73
-            }
-        ]
-    },
-    {
-        "ProductID": 45,
-        "ProductName": "Áo Khoác Phao Nam, Dày Dặn, Giữ Nhiệt Tốt",
-        "productPrice": 989000,
-        "ProductDescription": "ÁO KHOÁC PHAO NAM CHẦN BÔNG TRƠN BASIC\r\n\r\nMột chiếc áo khoác với thiết kế tối giản, nhưng vẫn lịch sự và sang trọng là một item không thể thiếu trong mùa đông. Nằm trong BST Thu đông 2023 thuộc top bán chạy, sản phẩm áo khoác nam Extra-warm mang đến các tính năng vượt trội cản gió, trượt nước, giữ ấm hiệu quả, dày dặn nhưng vẫn nhẹ nhàng, thoải mái; phù hợp mặc trong nhiều hoàn cảnh với nhiều màu sắc khác nhau giúp bạn phối đồ một cách dễ dàng!\r\n\r\nChất liệu áo khoác 3 lớp:\r\n- Mặt ngoài: 100% Poly giúp cản gió một cách hiệu quả, trượt nước nhẹ, hạn chế bám bụi, độ bền cao\r\n\r\n- Lớp giữa: Chần bông xay kháng khuẩn cao cấp\r\n\r\n- Lớp trong: Lớp gió (lụa) mềm mịn giúp tỏa nhiệt tức thì, giữ nhiệt cực tốt\r\n\r\nThiết kế tinh tế:\r\n- Trơn basic với các đường chỉ chần cực kì chắc chắn giúp cố định bông, hạn chế xô dịch\r\n\r\n- Mũ trùm đầu rộng rãi, có chốt cố định dễ dàng điều chỉnh, hạn chế gió lùa\r\n\r\n- Khóa kéo cao cấp trơn tru, chốt khóa tại cổ áo có phần che khóa tinh tế \r\n\r\n- Túi hai bên, túi ngực sâu rộng, tiện lợi",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 34
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 94
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 32
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 12
-            }
-        ]
-    },
-    {
-        "ProductID": 46,
-        "ProductName": "Áo Khoác GIó Nam, Cản Gió, Trượt Nước",
-        "productPrice": 799000,
-        "ProductDescription": "ÁO KHOÁC GIÓ THỂ THAO PHỐI MÀU & CHẦN CHỈ NỔI. Thiết kế mới cho thu đông 2023 mang đến cho bạn chiếc áo khoác ứng dụng thời trang linh hoạt, form dáng thể thao khoẻ khoắn, màu sắc trẻ trung hiện đại.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 39
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 38
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 49
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 32
-            }
-        ]
-    },
-    {
-        "ProductID": 47,
-        "ProductName": "Áo Bomber Nam, Thiết Kế Jaglan",
-        "productPrice": 849000,
-        "ProductDescription": "ÁO KHOÁC BOMBER NAM TAY RAGLAN TRẺ TRUNG\r\n\r\nÁo khoác nam hai lớp cản gió, hạn chế bám bụi, thuộc top áo khoác bomber bán chạy nhất với thiết kế trẻ trung dễ mặc, tay áo raglan phối màu, phần bo co giãn, dày dặn dệt kẻ nổi bật. Túi kéo khóa sâu rộng, phom Slimfit vừa vặn. Một item năng động, phong cách và thời trang!",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 32
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 83
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 32
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 32
-            }
-        ]
-    },
-    {
-        "ProductID": 48,
-        "ProductName": "Áo Khoác Bomber Nam, Thiết Kế Phối Màu",
-        "productPrice": 849000,
-        "ProductDescription": "ÁO KHOÁC BOMBER NAM CAN PHỐI IN CHỮ TRẺ TRUNG\r\n\r\nChúng tôi mang đến cho bạn một outfit mới phong cách với sự kết hợp của áo khoác bomber hai lớp can phối in chữ cách điệu. Vẫn ấm áp với lớp Poly cản gió hiệu quả, trượt nước, trượt bụi, dày dặn. Trẻ trung với thiết kế nổi bật in chữ ngực, đường line tay áo khỏe khoắn, bo cổ dệt phối màu. Với 2 màu sắc cơ bản, nam tính, dễ mặc dễ phối đồ thì đây là item không thể thiếu trong mùa đông này!",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 38
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 39
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 85
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 18
-            }
-        ]
-    },
-    {
-        "ProductID": 49,
-        "ProductName": "Áo Khoác Bomber Nam, Cản Gió, Thiết Kế Trẻ Trung",
-        "productPrice": 939000,
-        "ProductDescription": "ÁO BOMBER NAM LÓT NỈ THIẾT KẾ TÚI CÚC BẤM\r\n\r\nVới chất liệu Polyester cản gió hiệu quả, áo khoác bomber đến từ BST Thu Đông 2023  mang đến cho bạn một item vừa đủ ấm áp, vừa thời trang và dễ phối đồ. Tăng độ ấm với lớp lót nỉ mặt trong mềm mịn, tỏa nhiệt tức thì. Thiết kế đơn giản nhưng lịch lãm, sang trọng, túi chéo phối cúc bấm nổi bật, bo cổ bo tay dày dặn, co giãn. Áo khoác bomber là một loại áo khoác gọn gàng hơn giúp người mặc trông thời trang, phong cách, trẻ trung và năng động hơn.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 39
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 38
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 17
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 37
-            },
-            {
-                "SizeName": "2XL",
-                "Quantity": 18
-            }
-        ]
-    },
-    {
-        "ProductID": 50,
-        "ProductName": " Áo Khoác Bomber Nam, Lót Lông, Thiết Kế Trẻ Trung",
-        "productPrice": 899000,
-        "ProductDescription": "ÁO KHOÁC BOMBER LÓT LÔNG TECH TRAINING\r\n\r\nÁo khoác Bomber dáng phồng (áo khoác lính) mang hơi hướng thời trang trẻ trung, nam tính. Thiết kế lót lông toàn bộ bên trong thân áo, đem lại ứng dụng thời trang phù hợp hơn với thời tiết mùa đông lạnh. Đảm bảo mặc đẹp, mặc ấm mà không cần quá nhiều lớp áo.\r\n\r\nChất liệu mà sử dụng lớp lót lông giữ nhiệt, bề mặt vải trượt nước, cản gió tối ưu - một trong những sản phẩm áo khoác trong bộ sưu tập thu đông mà bạn nhất định bạn phải sở hữu!",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 39
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 83
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 84
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 72
-            },
-            {
-                "SizeName": "XXL",
-                "Quantity": 12
-            }
-        ]
-    },
-    {
-        "ProductID": 51,
-        "ProductName": "Áo Khoác Bomber Nam, Cản Gió, Trượt Nước",
-        "productPrice": 889000,
-        "ProductDescription": "ÁO KHOÁC BOMBER TÚI HỘP\r\n\r\nÁo khoác bomber thiết kế túi hộp trẻ trung, tạo điểm nhấn cùng ứng dụng tiện lợi với diện tích túi lớn để đồ cá nhân nhỏ như ví da, chìa khoá, điện thoại..\r\n\r\nChất liệu sử dụng công nghệ trượt nước, hạn chế thấm ngược ở bề mặt vải ngoài và lớp lót nỉ mềm mỏng, giữ ấm tối ưu. Một chiếc áo khoác vừa thời trang, vừa thích hợp cho những ngày mưa lạnh.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 38
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 38
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 43
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 48
-            }
-        ]
-    },
-    {
-        "ProductID": 52,
-        "ProductName": "Áo Khoác Bomber Nam, Trẻ Trung, Thanh Lịch",
-        "productPrice": 899000,
-        "ProductDescription": "ÁO KHOÁC NAM THIẾT KẾ TRƠN BASIC KIỂU TÚI HỘP\r\n\r\nNằm trong BST Thu đông 2023 của, áo khoác bomber nam với chất liệu Polyester dai bền, mềm mịn, cản gió, trượt nước nhẹ cùng thiết kế tinh giản, thanh lịch với phần túi hộp phong cách là một item không thể thiếu trong tủ đồ của bạn. Vừa ấm, nhẹ nhàng, gọn gàng, vừa trẻ trung, năng động và lịch sự.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 39
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 38
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 34
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 34
-            }
-        ]
-    },
-    {
-        "ProductID": 53,
-        "ProductName": "Áo Khoác Gió Nam 5S Fashion, Cản Gió, Trượt Nước",
-        "productPrice": 1089000,
-        "ProductDescription": " ÁO KHOÁC GIÓ NAM THỂ THAO MẶC ĐƯỢC HAI MẶT\r\n\r\nBiến hóa phong cách linh hoạt với chiếc áo khoác đa năng 2IN1 đến từ, một mặt trơn basic lịch lãm, một mặt với thiết kế can phối cùng họa tiết thêu chữ nổi bật, trẻ trung, thể thao và khỏe khoắn. Chất liệu hoàn toàn từ sợi Poly dai bền, mềm mịn, cản gió hiệu quả, trượt nước nhẹ. Áo khoác có mũ rời tháo được, thiết kế thông minh, mặc phù hợp trong nhiều hoàn cảnh.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 38
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 49
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 84
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 52
-            },
-            {
-                "SizeName": "XXL",
-                "Quantity": 85
-            }
-        ]
-    },
-    {
-        "ProductID": 54,
-        "ProductName": "Áo Khoác Gió Nam 5S Fashion, Thiết Kế Cổ Bẻ AKG23011",
-        "productPrice": 769000,
-        "ProductDescription": "ÁO KHOÁC GIÓ CỔ BẺ LỊCH LÃM - Thiết kế mới cho outfit thanh lịch mùa thu đông. Sử dụng chất liệu vải Polyester cao cấp có khả năng cản nước, cản gió vượt trội cùng công nghệ hiện đại chống thấm ngược tối ưu. Chiếc áo khoác cực kì thích hợp với thời tiết giao mùa, mưa nhẹ.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 39
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 48
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 58
-            }
-        ]
-    },
-    {
-        "ProductID": 55,
-        "ProductName": "Áo Khoác Gió Nam, Chống Bụi, Trượt Nước",
-        "productPrice": 859000,
-        "ProductDescription": "Áo Khoác Gió Nam, Chống Bụi, Trượt Nước là mẫu áo khoác nam đa năng cản gió, cản bụi, cản nước và chống UV là chiếc áo khoác gió sẽ phù hợp cho bạn mặc khi tham gia các hoạt động ngoài trời. 5S Fashion gửi đến các bạn thêm sự lựa chọn với một sản phẩm có thể sử dụng trong mọi hoàn cảnh",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 84
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 48
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 38
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 41
-            },
-            {
-                "SizeName": "XXL",
-                "Quantity": 12
-            }
-        ]
-    },
-    {
-        "ProductID": 56,
-        "ProductName": "Áo Khoác Nam, Kiểu Dáng Casual Heavy Phối Màu",
-        "productPrice": 899000,
-        "ProductDescription": "Áo Khoác Nam, Kiểu Dáng Casual Heavy Phối Màu là lựa chọn hoàn hảo cho các chàng trai trong thời điểm giao mùa. Khác với chế độ chống nước của các loại vải Nilon, các loại áo gió đến từ 5S Fashion được làm từ chất liệu 100% Polyester có màng chống nước siêu siêu mỏng giúp cho nước đọng thành từng hạt và chảy đi. Điều này giúp hạn chế nước mưa ngấm vào bên trong lớp vải mà vẫn đảm bảo sự thông thoáng, dễ chịu khi mặc.\r\n\r\nThiết kế áo basic, trẻ trung, nam tính với bảng màu đa dạng, mang tới nhiều sự lựa chọn theo sở thích của các anh chàng. Túi áo trước ngực và túi vát 2 bên tiện lợi, thời trang kết hợp cùng khóa HKK cao cấp, bền đẹp, không lo hỏng hóc. Áo khoác được làm từ chất liệu 100% Polyester vải gió sở hữu những ưu điểm như độ bền tốt, khả năng chống nước tối ưu, dễ dàng nhuộm màu sắc nét, đẹp mắt, dễ dàng giặt ủi cùng mức giá thành hợp lý, phù hợp với nhiều đối tượng người dùng. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 38
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 48
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 95
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 58
-            }
-        ]
-    },
-    {
-        "ProductID": 57,
-        "ProductName": "Áo Khoác Bomber Nam, Lót Lông, Dày Dặn",
-        "productPrice": 869000,
-        "ProductDescription": "ÁO KHOÁC BOMBER NAM LÓT LÔNG & CHẦN CHỈ NỔI. Chúng tôi mang đến cho bạn một chiếc áo khoác dày dặn, ấm áp với chất liệu Polyester cao cấp cản gió, trượt nước, lớp lót lông mềm mịn Extra-warm ấm áp tức thì, tỏa nhiệt, giữ nhiệt tốt. Thiết kế khỏe khoắn trẻ trung với đường line chần chỉ nổi tinh tế mang đến cho bạn một phong cách hoàn toàn mới, gọn gàng, thanh lịch, thời trang!",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 48
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 94
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 58
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 85
-            }
-        ]
-    },
-    {
-        "ProductID": 58,
-        "ProductName": "Áo Khoác Gió Nam, Cản Gió, Trượt Nước",
-        "productPrice": 799000,
-        "ProductDescription": "ÁO KHOÁC GIÓ THỂ THAO NAM CÓ MŨ THIẾT KẾ TÚI DẠNG HỘP. Nằm trong BST Thu đông 2023 mới nhất đến từ, sản xuất hoàn toàn tại Việt Nam. Một chiếc áo khoác hoàn hảo với kiểu dáng thể thao, khỏe khoắn, cản gió, trượt nước nhẹ, giữ ấm hiệu quả, rất thích hợp cho vận động và các hoạt động ngoài trời.\r\n\r\nChất liệu Áo Khoác Nam Có Mũ:\r\n• 100% Polyester: Nhẹ, cản gió vượt trội, trượt nước, hạn chế nhăn và bám bụi, độ bền cao\r\n\r\n• Mặt trong: Lót nỉ dày dặn, mềm mịn, ấm tức thì, giữ nhiệt, giữ ấm tối đa\r\n\r\nThiết kế:\r\n• Trơn basic, với hiệu ứng dệt kẻ ô tinh tế, màu sắc trung tính dễ dàng phối đồ\r\n\r\n• Phom dáng: Regular fit thoải mái\r\n\r\n• Mũ áo khoác có thể tháo rời hoàn toàn, có chốt cố định dễ dàng điều chỉnh\r\n\r\n• Khóa kéo trơn tru, có vạt che ẩn tinh tế, thời trang\r\n\r\n• Túi kéo khóa thiết kế dạng hộp nam tính, khỏe khoắn, phong cách\r\n\r\nCách mix&match Áo Khoác Nam Có Mũ \r\nThiết kế basic với 3 màu trung tính: Đen, Ghi tối, Ghi sáng, áo khoác nam có mũ dễ dàng phối được với nhiều loại quần áo khác nhau để tạo nên những outfit khỏe khoắn, hiện đại, năng động, phù hợp mặc hàng ngày: \r\n\r\n• Outfit công sở: Phối cùng quần tây/quần dài kaki với 1 chiếc áo sơ mi dài tay \r\n\r\n• Outfit thể thao: Một chiếc quần nỉ/quần jogger với chiếc áo thun dài tay đơn sắc bên trong và đừng quên một đôi giày thể thao để tổng thể trở nên khỏe khoắn hơn\r\n\r\n• Outfit daily: Quần jean phối áo nỉ sweater cùng một đôi sneaker là một outfit cực kì trẻ trung, năng động, mặc đi chơi, đi dạo, đi cafe,...\r\n\r\n",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 84
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 84
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 29
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 85
-            }
-        ]
-    },
-    {
-        "ProductID": 59,
-        "ProductName": "Áo Khoác Gió Nam Cõ Mũ, Giữ Ấm, In Hình Trẻ Trung",
-        "productPrice": 799000,
-        "ProductDescription": "ÁO KHOÁC NAM VẢI GIÓ IN CHỮ BEYOND PHONG CÁCH.\r\n\r\nChúng tôi ra mắt mẫu áo khoác nam mới nhất nằm trong BST Thu đông 2023, với thiết kế phá cách hơn, trẻ trung hơn. Áo khoác có 2 lớp dày dặn giữ ấm tốt, phần tay phối line nổi, điểm nổi bật nhất là hình in chữ sau lưng áo phong cách. Mũ trùm đầu rộng có chốt điều chỉnh, áo có vạt che khóa phối cúc tạo điểm nhấn. Phù hợp mặc khoác ngoài và các hoạt động vận động, thể thao.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 49
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 95
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 38
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 48
-            }
-        ]
-    },
-    {
-        "ProductID": 60,
-        "ProductName": "Áo Khoác Phao Gile Có Mũ, Thiết Kế Trẻ Trung, Khỏe Khoắn",
-        "productPrice": 829000,
-        "ProductDescription": "ÁO KHOÁC NAM GILE KHOÁC NGOÀI CÓ MŨ TRẺ TRUNG\r\n\r\nNằm trong BST Thu đông mới nhất đến từ nhà, chiếc áo khoác kiểu gile với thiết kế tối giản hơn nhưng vẫn đầy đủ hiệu năng của một chiếc áo khoác nam giữ ấm cực tốt. Chất liệu Poly dai bền giúp cản gió hiệu quả, bông xay chần dày dặn, lớp lót gió Extra-warm giữ nhiệt, tỏa hơi ấm tức thì. Thiết kế không tay mang lại sự gọn gàng, phần mũ trùm rộng trẻ trung, khóa kéo ngược cao cấp in logo hãng phần túi ngực thể thao khỏe khoắn.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 84
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 93
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 23
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 48
-            }
-        ]
-    },
-    {
-        "ProductID": 61,
-        "ProductName": " Áo Gió Nam, Cản Gió, Trượt Nước",
-        "productPrice": 749000,
-        "ProductDescription": "ÁO KHOÁC NAM CỔ TRỤ THIẾT KẾ HỌA TIẾT HÌNH THOI\r\n\r\nÁo khoác nam vải gió 2 lớp dày dặn, một thiết kế mang phong cách hoàn toàn mới lạ, độc đáo và trẻ trung của. Cổ trụ cao giữ ấm, tay và gấu áo bo chun hạn chế gió lùa, nổi bật là phần thiết kế dệt line nổi từ tay và thân áo ghép thành hình thoi đầy cá tính. Một item hoàn hảo vừa giữ ấm vừa thời trang và năng động!",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 49
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 83
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 81
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 28
-            }
-        ]
-    },
-    {
-        "ProductID": 62,
-        "ProductName": "Áo Phao Nam, Phom Regular Cổ Bẻ Phong Cách",
-        "productPrice": 969000,
-        "ProductDescription": "ÁO PHAO CHẦN BÔNG CỔ BẺ CÚC CÀI PHONG CÁCH\r\n\r\nBST Thu đông 2023 mang đến một item hoàn toàn mới lạ, độc đáo với chiếc áo khoác phao chần bông mặt trong, cổ bẻ phối cúc cài. Chất liệu hoàn toàn từ Poly dai bền, cản gió hiệu quả, trượt nước nhẹ, chần bông mặt trong áo chắc chắn, ấm áp, dày dặn. Tay bo phối nhám hạn chế gió lùa, in silicon cao cấp phần ngực tạo điểm nhấn trẻ trung. Vừa ấm, vừa phong cách, lịch lãm, là item không thể thiếu trong mua đông này!",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 48
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 28
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 72
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 17
-            }
-        ]
-    },
-    {
-        "ProductID": 63,
-        "ProductName": "Áo Thun Dài Tay Nam, Mềm Mịn, Thoáng Khí",
-        "productPrice": 249000,
-        "ProductDescription": "ÁO THUN THIẾT KẾ CONFIDENCE \r\n\r\nÁo thun dài tay thiết kế in ép nhiệt bền bỉ, không rạn vỡ khi giặt ủi. Hình in mang phong cách trẻ trung, tạo điểm nhấn nổi bật.\r\n\r\nChất liệu chủ đạo từ Cotton mang lại cảm giác vải mềm mại, co giãn và đàn hồi tốt, cho bạn trải nghiệm thoải mái tối đa khi mặc.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 30
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 88
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 12
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 65
-            }
-        ]
-    },
-    {
-        "ProductID": 64,
-        "ProductName": "Áo Thun Dài Tay Nam, Thiết Kế Basic",
-        "productPrice": 279000,
-        "ProductDescription": "ÁO THUN TRƠN ĐÁP LOGO 5S FASHION\r\n\r\nÁo thun dài tay nâng cao trải nghiệm với chất liệu mới Viscose - sợi tơ tổng hợp có đặc điểm siêu mảnh, mềm mại hơn, độ mịn và bóng nhẹ tạo thẩm mỹ cao hơn.\r\n\r\nSản phẩm áo thun trơn đáp logo tinh tế, màu sắc nam tính dễ mặc, dễ phối đồ ngay cả khi mặc bên trong áo khoác.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 32
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 59
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 49
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 21
-            }
-        ]
-    },
-    {
-        "ProductID": 65,
-        "ProductName": "Áo Thun Dài Tay Nam, Mềm Mịn, Bền Bỉ",
-        "productPrice": 219000,
-        "ProductDescription": "ÁO THUN DÀI TAY form trơn basic với 3 sự lựa chọn màu sắc nam tính: xanh cổ vịt, xanh đá và ghi sáng. Cùng chất liệu Cotton pha sợi Spandex tạo độ co giãn tối đa, thoải mái nhất có thể khi mặc.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 39
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 59
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 10
-            },
-            {
-                "SizeName": "2XL",
-                "Quantity": 35
-            }
-        ]
-    },
-    {
-        "ProductID": 66,
-        "ProductName": "Áo Thun Dài Tay Nam, Mềm Mịn, Thấm Hút Hiệu Quả",
-        "productPrice": 349000,
-        "ProductDescription": "Áo Thun Dài Tay Nam, Mềm Mịn, Thấm Hút Hiệu Quả nổi bật với chất liệu Viscose từ sợi lụa nhân tạo có cấu trúc tương tự Cotton nhưng được kết hợp với Feezing Nylonj, Spandex giúp tăng độ mềm mại, bền đẹp và đàn hồi của áo.",
-        "Sizes": [
-            {
-                "SizeName": "M",
-                "Quantity": 49
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 85
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 28
-            },
-            {
-                "SizeName": "2XL",
-                "Quantity": 4
-            }
-        ]
-    },
-    {
-        "ProductID": 67,
-        "ProductName": "Áo Thun Dài Tay Nam, In Chữ Combination",
-        "productPrice": 319000,
-        "ProductDescription": "Áo Thun Dài Tay Nam, in Chữ Combination sở hữu kiểu dáng Slim fit vừa vặn, tôn dáng với khả năng giữ ấm cơ thể cực tốt. Áo thun dài tay có đa dạng màu sắc, chủ yếu là các màu basic, dễ mặc và dễ phối. Thiết kế trẻ trung với điểm nhấn là hình in thêu chữ Combination hiện đại.\r\n\r\nChất liệu Viscose hay còn được gọi là sợi lụa nhân tạo, là một trong những dòng chất liệu cao cấp của. Viscose được tổng hợp từ chất xơ của sợi Cellulose làm từ bột ỗ như cây sồi, cây thông, bạch đàn tre... giúp cấu trúc của loại vải này gần như tương tự với Cotton. Tuy nhiên, đặc tính nổi trợi hơn nằm ở độ mềm mịn, thân thiện với làn da cũng như môi trường sống xung quanh. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 3
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 5
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 32
-            },
-            {
-                "SizeName": "3XL",
-                "Quantity": 34
-            }
-        ]
-    },
-    {
-        "ProductID": 68,
-        "ProductName": "Áo Thun Dài Tay Nam, Mềm Mịn, Thấm Hút",
-        "productPrice": 239000,
-        "ProductDescription": "ÁO THUN THIẾT KẾ CONFIDENCE \r\n\r\nÁo thun dài tay thiết kế in ép nhiệt bền bỉ, không rạn vỡ khi giặt ủi. Hình in mang phong cách trẻ trung, tạo điểm nhấn nổi bật.\r\n\r\nChất liệu chủ đạo từ Cotton mang lại cảm giác vải mềm mại, co giãn và đàn hồi tốt, cho bạn trải nghiệm thoải mái tối đa khi mặc.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 30
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 39
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 100
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 300
-            }
-        ]
-    },
-    {
-        "ProductID": 70,
-        "ProductName": "Áo Thun Dài Tay Nam, Mềm Mịn, Thoáng Khí",
-        "productPrice": 249000,
-        "ProductDescription": "ÁO THUN THIẾT KẾ CONFIDENCE \r\n\r\nÁo thun dài tay thiết kế in ép nhiệt bền bỉ, không rạn vỡ khi giặt ủi. Hình in mang phong cách trẻ trung, tạo điểm nhấn nổi bật.\r\n\r\nChất liệu chủ đạo từ Cotton mang lại cảm giác vải mềm mại, co giãn và đàn hồi tốt, cho bạn trải nghiệm thoải mái tối đa khi mặc.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 38
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 84
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 48
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 73
-            }
-        ]
-    },
-    {
-        "ProductID": 71,
-        "ProductName": "Áo Polo Nam, Vải Viscose Mềm Mượt, Thoáng Khí",
-        "productPrice": 389000,
-        "ProductDescription": "Áo Polo Nam, Vải Viscose Mềm Mượt, Thoáng Khí APC23104 là lựa chọn hoàn hảo cho mùa này nhờ thiết kế trẻ trung, cuốn hút với kiểu dáng Slim fit ôm dáng vừa vặn. Đường may áo chắc chắn, tinh tế đến từng chi tiết. Điểm nhấn của mẫu áo Polo này nằm ở thiết kế phối cúc lạ mắt, mang đến diện mạo trẻ trung mà vẫn thanh lịch, nam tính cho nam giới. \r\n\r\nChất liệu Viscose thoáng mát, mềm mại, mang đến trải nghiệm hoàn hảo khi mặc, ngay cả trong tiết trời mùa hè oi bức. Bổ sung thành phần Freezing Nylon hay còn được biết đến với tên gọi quen thuộc là thun lạnh, với ưu điểm mềm mướt, bề mặt sáng bóng và nhẵn mịn, sợi vải mát lạnh, nhuộm màu sắc nét và tính đàn hồi tự nhiên cao. Kết hợp cùng Spandex tạo ra chất liệu vải có khả năng thấm hút mồ hôi tốt, thoáng khí, kháng khuẩn tốt và có màu sắc cực kỳ bắt mắt cùng với độ đàn hồi tốt giúp thoải mái vận động.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 93
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 38
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 28
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 48
-            }
-        ]
-    },
-    {
-        "ProductID": 72,
-        "ProductName": "Áo Polo Nam, Vải Viscose, Thấm Hút Mồ Hôi Tốt",
-        "productPrice": 419000,
-        "ProductDescription": "Áo Polo Nam, Vải Viscose, Thấm Hút Mồ Hôi Tốt là một trong những mẫu áo Polo hot hit nhờ thiết kế đơn giản, chẳng lo \"lỗi mốt\". Mẫu áo này ghi điểm bởi thiết kế trẻ trung, nam tính, cuốn hút cùng kiểu dáng Slim fit tôn dáng, dễ mặc và dễ phối đồ. Cổ - tay áo được dệt bo bền đẹp, sang trọng, mang đến diện mạo cuốn hút cho nam giới. \r\n\r\nÁo được làm từ chất liệu Viscose thoáng mát, mềm mại, mang đên trải nghiệm hoàn hảo khi mặc. Kết hợp với thành phần chất liệu Polyamide và Spandex giúp tăng độ mềm mại, co giãn cực tốt khi mặc, giúp chiếc áo mềm mượt - mát mẻ - mau khô và đặc biệt không lo nhăn nhàu suốt cả ngày. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 38
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 48
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 39
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 41
-            }
-        ]
-    },
-    {
-        "ProductID": 73,
-        "ProductName": "Áo Polo Nam, Vải Silk Cao Cấp, Mềm Mại, Nhẹ Mát",
-        "productPrice": 479000,
-        "ProductDescription": "Áo Polo Nam, Vải Silk Cao Cấp, Mềm Mại, Nhẹ Mát sở hữu kiểu dáng Slim fit ôm dáng vừa vặn mà vẫn thoải mái trong mọi hoạt động. Thiết kế khỏe khoắn, màu sắc đa dạng được dệt kẻ Jaccquard phối màu tạo hiệu ứng tinh tế, mang đến phong cách thời thượng, lịch lãm cho nam giới. Đặc biệt, cổ và tay áo được dệt bo đứng dáng kết hợp cùng được phối line 3 màu tạo hiệu ứng nổi bật, thu hút cho tổng thể chiếc áo.\r\n\r\nÁo được làm từ chất liệu Silk cao cấp - Lụa tơ tằm ví như \"Nữ hoàng\" của các loại lụa, Silk được xếp vào top những loại vải đắt đỏ nhất hành tinh và chỉ xuất hiện trong các sản phẩm cao cấp. Với các ưu điểm mềm, mịn, vải rất thoáng mùa hè thì mát mẻ mùa đông thì ấm áp, thấm hút mồ hôi tốt và là gốc sợi tự nhiên nên rất an toàn với da. Chất liệu vải được cấu thành từ Polyester, Cotton là những chất liệu phổ thông tuy nhiên khi thêm 3% Silk giá thành lại tăng tới 50% đủ thấy giá trị của Silk, kết hợp thêm thành phần Lyocel (tencel) một chất liệu vải sinh học cao cấp hơn cả Modal, an toàn và thân thiện với môi trường, sử dụng công nghệ Nano nên sợi vải siêu mảnh cỡ các hạt Nano giúp bề mặt vải mềm, siêu mịn, chống nhăn hiệu quả. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 48
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 38
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 12
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 39
-            },
-            {
-                "SizeName": "XXL",
-                "Quantity": 41
-            }
-        ]
-    },
-    {
-        "ProductID": 75,
-        "ProductName": "Áo Polo Nam, Chất Liệu Silk Cao Cấp",
-        "productPrice": 479000,
-        "ProductDescription": "Áo Polo Nam, Chất Liệu Silk Cao Cấp APC23065 nổi bật với kiểu Slim fit tôn dáng vừa vặn mà vẫn đảm bảo cảm giác thoải mái khi hoạt động. Đây là thiết kế trẻ trung, thời thượng, dễ mặc và dễ phối với mọi trang phục, giúp bạn nam tự tin để diện đi học, đi làm hay đi du lịch đều phù hợp.\r\n\r\nĐiểm nhấn của thiết kế này nằm ở phần dệt bo cổ và tay áo đứng form kết hợp với đường line mang tới phong cách trẻ trung cho người mặc. Tay áo được thêu logo nổi 5S Premium sang trọng, đẳng cấp, đảm bảo hàng chính hãng 100% đến từ thương hiệu. \r\n\r\nÁo Polo được làm từ chất liệu Silk - Lụa tơ tằm được ví như \"Nữ hoàng\" của các loại lụa, Silk được xếp vào top những loại vải đắt đỏ nhất hành tinh và chỉ xuất hiện trong các sản phẩm cao cấp. Với các ưu điểm vượt trội như mềm, mịn, vải rất thoáng mùa hè thì mát mẻ mùa đông thì ấm áp, thấm hút mồ hôi tốt và là gốc sợi tự nhiên nên rất an toàn với da.\r\n\r\nThêm vào đó, việc bổ sung các thành phần chất liệu như Polyester, Cotton giúp gia tăng độ thoáng mát, bền đẹp của áo Polo. Chất vải Lyocel (tencel) - một chất liệu vải cao cấp hơn cả Modal, an toàn và thân thiện với môi trường, sử dụng công nghệ Nano nên sợi vải siêu mảnh cỡ các hạt Nano giúp bề mặt vải mềm, siêu mịn, chống nhăn hiệu quả và có nhiều đặc điểm tương tự Modal. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 43
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 21
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 31
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 12
-            }
-        ]
-    },
-    {
-        "ProductID": 77,
-        "ProductName": "Áo Polo Nam, Vải Viscose, Thoáng Mát",
-        "productPrice": 379000,
-        "ProductDescription": "Áo Polo Nam, Vải Viscose, Thoáng Mát là thiết kế hiện đại, trẻ trung với kiểu dáng Slim fit ôm vừa vặn, tôn dáng được nam giới lựa chọn. Thiết kế basic, cổ và tay áo được dệt bo sang trọng, lịch sự giúp giữ phom tốt khi mặc. Bảng màu đa dạng, nhã nhặn với các màu sắc trung tính, dễ mặc, dễ phối với hầu hết các trang phục trong tủ đồ nam giới. Đây là một trong những item bán chạy nhất trong bộ sưu tập Xuân Hè.\r\n\r\nÁo được làm từ sự kết hợp của nhiều thành phần chất liệu như Micro Visocse, Freezing Nylon và Spandex đem tới trải nghiệm thoáng mát hoàn hảo cho chiếc áo Polo. Chất liệu này giúp tăng độ mềm mại, mỏng nhẹ và thoáng khí, tăng tốc độ bay hơi, từ đó thấm hút mồ hôi nhanh hơn, phù hợp để mặc đi làm, đi học hay đi chơi... ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 41
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 24
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 31
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 32
-            }
-        ]
-    },
-    {
-        "ProductID": 78,
-        "ProductName": "Áo Polo Nam, Cotton USA, Co Giãn 4 Chiều",
-        "productPrice": 519000,
-        "ProductDescription": "Áo Polo Nam, Cotton USA, Co Giãn 4 Chiều là thiết kế phối màu in tràn độc đáo ứng dụng công nghệ thoáng khí số 1 chuyên biệt của 5S Fashion rất được ưa chuộng hiện nay. Kiểu dáng Slim fit ôm vừa vặn, tôn dáng mà vẫn thoải mái trong mọi hoạt động. Thiết kế đường nét hiện đại, gam màu đa dạng, phù hợp với mọi sở thích, độ tuổi và phong cách. \r\n\r\nÁo Polo được làm từ chất liệu Cotton USA với những ưu điểm vượt trội như co giãn 4 chiều, thấm hút mồ hôi, thoáng mát tối đa. Bề mặt vải tối ưu khả năng thoáng khí, hút ẩm nhanh hơn và mau khô hơn. Bổ sung thành phần Spandex giúp tăng độ co giãn, đàn hồi để nam giới thoải mái trong mọi hoạt động. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 32
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 25
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 31
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 12
-            }
-        ]
-    },
-    {
-        "ProductID": 79,
-        "ProductName": "Áo Polo Nam, Thấm Hút Mồ Hôi Tốt",
-        "productPrice": 419000,
-        "ProductDescription": "Áo Polo Nam, Cotton USA, Thấm Hút Mồ Hôi Tốt nổi bật với kiểu dáng Slim fit ôm vừa vặn, tôn dáng mà vẫn đảm bảo cảm giác thoải mái khi vận động. Với chất liệu Cotton USA mỏng mịn, đạt tiêu chuẩn cao cấp với khả năng co giãn 4 chiều bền đẹp, đem tới cảm nhận về sự mềm mại, dễ chiu và dễ mặc.\r\n\r\nĐiểm nhấn của chiếc áo Polo này nằm ở phần cổ và tay dệt bo phối với các đường line nổi bật, trẻ trung và khỏe khoắn. Đây được đánh giá là dòng áo Polo vừa thời trang, vừa đáp ứng nhu cầu trang phục hè thoải mái và thoáng mát tối đa cho mọi chàng trai. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 123
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 32
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 31
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 12
-            }
-        ]
-    },
-    {
-        "ProductID": 80,
-        "ProductName": "Áo Polo Nam, Cotton USA, Cao Cấp, Thấm Hút Mồ Hôi",
-        "productPrice": 419000,
-        "ProductDescription": "Áo Polo Nam, Chất Vải Cotton USA Thoáng Mát, Thấm Hút Mồ Hôi APC23406 nổi bật với phom dáng Slim fit ôm nhẹ vừa vặn mà vẫn thoải mái, linh hoạt trong mọi hoạt động. Thiết kế basic với cổ áo dệt phối kẻ lịch sự. Phần tay áo có thêu logo tinh tế, đẳng cấp. Áo sở hữu bảng màu đa dạng với thiết kế trơn màu khỏe khoắn, dễ dàng phối kết hợp với nhiều kiểu trang phục khác nhau. \r\n\r\nÁo Polo được làm từ chất liệu cao cấp với 63,7% thành phần là Cotton USA . Khi kết hợp với sợi Polyester giúp cho vải có thêm những tính năng như: Tăng độ bền, độ bóng sắc nét, tăng độ bền màu của sản phẩm nhưng vẫn giữ được những ưu điểm của Cotton USA. Đồng thời, bổ sung thành phần Spandex giúp sản phẩm có độ đàn hồi tốt, giảm độ co rút và người mặc sẽ thoải mái vận động. \r\n\r\nVới bề mặt vải tối ưu khả năng thoáng khí, thấm hút nhanh hơn, mau khô hơn, đây được xem là chiếc áo Polo thoải mái nhất cho mùa hè này mà các bạn không nên bỏ qua. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 123
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 32
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 31
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 12
-            }
-        ]
-    },
-    {
-        "ProductID": 81,
-        "ProductName": "Áo Polo Nam, Thiết Kế Dệt Kẻ Phối Trẻ Trung",
-        "productPrice": 419000,
-        "ProductDescription": "Áo Polo Nam, Thiết Kế Dệt Kẻ Phối Trẻ Trung được thiết kế theo phom dáng Slim fit ôm vừa vặn, tôn dáng nhưng vẫn đảm bảo cảm giác thoải mái khi vận động. Thiết kế basic với cổ đứng, tay áo được dệt bo chỉn chu, giữ phom tốt, mang tới dáng vẻ chỉn chu, nam tính cho phái mạnh. Điểm nhấn của mẫu áo này nằm ở họa tiết dệt kẻ ngang phối màu thanh lịch, dễ dàng phối kết hợp với nhiều kiểu trang phục khác nhau, dễ dàng mặc đi làm hay đi chơi. \r\n\r\nÁo Polo được làm từ chất vải Cotton USA được biết đến là loại vải có cấu trúc sợi dai và dài vượt trội. Chất liệu này đã hoàn thiện được những ưu điểm có sẵn của cotton truyền thống. Độ thấm hút cao, chịu nhiệt tốt, giữ màu sắc bền đẹp; đồng thời khắc phục hầu hết nhược điểm cũ như: co rút, dễ nhăn, xù, bạc màu.\r\n\r\nKết hợp với Spandex giúp sản phẩm có độ đàn hồi tốt, người mặc sẽ thoải mái vận động. Vải thành phẩm được xử lý qua công nghệ Wash giúp bề mặt mềm hơn, độ cầm màu tốt hơn & giảm độ co rút.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 23
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 32
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 131
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 15
-            }
-        ]
-    },
-    {
-        "ProductID": 82,
-        "ProductName": "Áo Polo Nam, Cotton USA, Thoáng Mát, Thấm Hút Mồ Hôi",
-        "productPrice": 419000,
-        "ProductDescription": "Áo Polo Nam, Cotton USA, Thoáng Mát, Thấm Hút Mồ Hôi sở hữu kiểu dáng Slim fit ôm vừa vặn, tôn dáng mà vẫn thoải mái khi mặc. Thiết kế basic với cổ và tay áo được bo rib giúp giữ phom tốt, họa tiết dệt, phối đường kẻ line giúp tổng thể chiếc áo Polo trở nên đặc biệt, nổi bật hơn mà vẫn dễ dàng phối với các trang phục để mặc đi làm hay đi chơi. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 53
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 69
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 11
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 25
-            }
-        ]
-    },
-    {
-        "ProductID": 83,
-        "ProductName": "Áo Polo Nam, Chất Vải Cotton USA Cao Cấp",
-        "productPrice": 419000,
-        "ProductDescription": "Áo Polo Nam, Chất Vải Cotton USA Cao Cấp nổi bật với phom dáng Slim fit ôm vừa vặn mà vẫn đảm bảo cảm giác thoải mái khi mặc. Thiết kế basic với cổ - tay áo dệt bo rib giúp giữ phom tốt, mang đến dáng vẻ nam tính, lịch lãm cho nam giới. Điểm nhấn của thiết ké này nằm ở họa tiết dệt kẻ nổi bật, phù hợp với nhiều loại trang phục khác nhau. Áo sở hữu bảng màu đa dạng với màu sắc tươi sáng, sắc nét cùng thiết kế trẻ trung, tỉ mỉ đến từng chi tiết. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 53
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 69
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 11
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 25
-            }
-        ]
-    },
-    {
-        "ProductID": 84,
-        "ProductName": "Áo Polo Nam, Chất Vải PE Cool Mát Lạnh",
-        "productPrice": 339000,
-        "ProductDescription": "Áo Polo Nam, Chất Vải PE Cool Mát Lạnh nổi bật với form dáng Slim fit ôm nhẹ vừa vặn, đảm bảo tôn dáng mà vẫn thoải mái khi vận động. Thiết kế basic khỏe khoắn, màu sắc cơ bản dễ dàng phối kết hợp với nhiều trang phục khác nhau mang đến diện mạo trẻ trung, lịch lãm cho nam giới.Họa tiết vệt màu tên vải đước sắp xếp tinh tế, tạo điểm nhấn nổi bật cho tổng thể chiếc áo Polo. Đây là item được ưa chuộng top đầu trong bộ sưu tập Xuân Hè.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 32
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 43
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 123
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 53
-            }
-        ]
-    },
-    {
-        "ProductID": 85,
-        "ProductName": "Áo Polo Nam, Thiết Kế Phối Màu Trẻ Trung",
-        "productPrice": 339000,
-        "ProductDescription": "Áo Polo Nam, Thiết Kế Phối Màu Trẻ Trung sở hữu phom dáng Slim fit ôm vừa vặn, tôn dáng tối đa mà không gây cảm giác bó sát khó chịu khi mặc. Thiết kế basic với cổ và tay áo dệt bo phối cùng họa tiết kẻ line phối 2 màu độc đáo mang đến diện mạo nam tính, khỏe khoắn cho phái mạnh. Đặc biệt, đây cũng là thiết kế dễ dàng phối với nhiều loại trang phục khác nhau để nam giới có thể mặc đi làm hay đi chơi đều phù hợp. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 53
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 12
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 23
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 123
-            }
-        ]
-    },
-    {
-        "ProductID": 86,
-        "ProductName": "Áo Polo Nam, Chất Cotton USA Thoáng Mát",
-        "productPrice": 389000,
-        "ProductDescription": "Áo Polo Nam, Chất Cotton USA Thoáng Mát sở hữu phom dáng Slim fit ôm nhẹ vừa vặn mà vẫn linh hoạt, thoải mái trong mọi hoạt động hằng ngày. Áo Polo được thiết kế basic với điểm nhấn là phần cổ - tay áo dệt có phối đường line bắt mắt. Họa tiết dệt kẻ này góp phần mang đế diện mạo thu hút, nam tính và khỏe khoắn hơn cho người mặc. Với bảng màu đa dạng, bạn nam có thể dễ dàng chọn cho mình các màu sắc ưa thích, hợp với phong cách thời trang hằng ngày của mình.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 23
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 32
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 43
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 43
-            }
-        ]
-    },
-    {
-        "ProductID": 87,
-        "ProductName": "Áo Polo Nam, Họa Tiết Dệt Kẻ Phối Trẻ Trung",
-        "productPrice": 519000,
-        "ProductDescription": "Áo Polo Nam, Họa Tiết Dệt Kẻ Phối Trẻ Trung có kiểu dáng Slim fit ôm vừa vặn với cơ thể, tôn dáng tối đa nhưng vẫn đảm bảo sự thoải mái trong các hoạt động hằng ngày. Áo được thiết kế khá đơn giản với cổ - tay áo bo rib, phối họa tiết kẻ dệt sang trọng, nam tính, dễ dàng kết hợp với nhiều loại trang phục khác nhau, để quý ông có thể tự tin diện đi làm hay đi chơi đều phù hợp. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 58
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 51
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 94
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 65
-            }
-        ]
-    },
-    {
-        "ProductID": 88,
-        "ProductName": "Áo Polo Nam, Thiết Kế Phối Kẻ Màu Trẻ Trung",
-        "productPrice": 499000,
-        "ProductDescription": "Áo Polo Nam, Thiết Kế Phối Kẻ Màu Trẻ Trung nổi bật với kiểu dáng Slim fit ôm nhẹ vừa vặn, đảm bảo cảm giác thoải mái, dễ chịu khi vận động. Điểm nhấn của thiết kế áo Polo này nằm ở phần dệt kẻ tạo họa tiết độc đáo và hút mắt, mang đến diện mạo thời thượng mà không kém phần trẻ trung cho nam giới. \r\n\r\n",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 43
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 51
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 61
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 92
-            }
-        ]
-    },
-    {
-        "ProductID": 90,
-        "ProductName": "Quần Short Thể Thao Nam, Cạp Cúc, Phối Màu Trẻ Trung",
-        "productPrice": 469000,
-        "ProductDescription": "Quần Short Thể Thao Nam, Cạp Cúc, Phối Màu Trẻ Trung có phom dáng Slim fit vừa vặn, tôn dáng nhưng vẫn vô cùng thoải mái khi mặc. Thiết kế đơn giản, đường may tinh tế, tỉ mỉ mang tới diện mạo chỉn chu, nam tính cho anh chàng. Quần có túi xẻ hai bên, túi phụ phía sau có khuy cài vô cùng tiện lợi. Đây là mẫu quần short thể thao thuộc top bán chạy tại 5S Fashion.\r\n\r\nQuần được làm từ Polyamide thường được dùng cho dòng quần short nhờ những ưu điểm mềm mướt, bề mặt sáng bóng và nhẵn mịn, sợi vải mát lạnh, nhuộm màu sắc nét và tính đàn hồi tự nhiên cao. Kết hợp với tỉ lệ Spandex cao giúp sản phẩm có độ đàn hồi cực tốt, giúp người mặc thoải mái vận động & tham gia các hoạt động thể thao.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 43
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 23
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 42
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 41
-            }
-        ]
-    },
-    {
-        "ProductID": 91,
-        "ProductName": "Quần Short Thể Thao Nam, Cạp Cúc, In Sườn",
-        "productPrice": 469000,
-        "ProductDescription": " \r\nQuần Short Thể Thao Nam, Cạp Cúc, In Sườn là item vừa thoải mái, vừa lịch sự được nam giới yêu thích. Bạn có thể thỏa sức kết hợp quần thể thao với mọi outfit từ Polo, t-shirt, Tanktop với mẫu short thể thao cạp cúc in sườn đến từ nhà 5S Fashion. Set đồ này sẽ mang tới diện mạo trẻ trung, thích hợp với mọi hoạt động di chuyển, tập luyện nhưng vẫn vô cùng lịch sự, tạo cảm giác thoải mái nhất cho người mặc. Thiết kế basic, túi vát 2 bên mix cùng túi sau có cúc cài tiện lợi. \r\n\r\nChất vải Polyamide co giãn thoải mái, tăng độ mềm mại và đàn hồi khi mặc. Đặc biệt, đây cũng là chất liệu nhẹ dịu, an toàn mang tới trải nghiệm thoải mái nhất khi hoạt động suốt cả ngày dài, không gây nóng bí hay đổ mồ hôi khi mặc. Bề mặt vải mềm - mượt - mát - mau khô cùng khả năng giữ phom quần khỏe khoắn, bền đẹp. Việc bổ sung thêm thành phần Spandex nhằm tăng tính thoải mái cho người mặc nhờ sự co giãn, mềm nhẹ và trơn tru. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 43
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 40
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 42
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 41
-            }
-        ]
-    },
-    {
-        "ProductID": 92,
-        "ProductName": "Quần Short Thể Thao Nam, Cạp Chun, In Chữ Trẻ Trung",
-        "productPrice": 429000,
-        "ProductDescription": "Quần Short Thể Thao, Cạp Chun, In Chữ Trẻ Trung là mẫu quần short thể thao mang phong cách thể thao với kiểu dáng Slim fit vừa vặn, tôn dáng mà vẫn đảm bảo trải nghiệm thoải mái trong mọi hoạt động. Quần được thiết kế basic với túi vát 2 bên tiện lợi, họa tiết hình in nổi cao cấp, bền đẹp và không lo bong tróc. Bảng màu đa dạng, dễ mặc, dễ phối, phù hợp với nhiều hoạt động như mặc thường ngày, đi chơi, đi tập gym, chạy bộ... Đây là item luôn được yêu thích tại 5S Fashion.\r\n\r\nThành phần chất vải chỉ có 14.5% Cotton nhưng loại vải này có bề mặt ngoài mang đậm chất cotton, mềm mại, thấm hút, thoáng mát. Tencel - một chất liệu vải sinh học cao cấp hơn cả Modal, an toàn và thân thiện với môi trường, sử dụng công nghệ Nano nên sợi vải siêu mảnh cỡ các hạt Nano giúp bề mặt vải mềm, siêu mịn, chống nhăn hiệu quả và có nhiều đặc điểm tương tự Modal. Kết hợp cùng 66% Polyester ở mặt trong tạo độ mướt giảm sự cọ sát lên da, giúp tăng độ bền, độ bóng sắc nét, tăng độ bền màu của vải và giúp giá giảm giá thành. 5% Spandex giúp vải có độ co giãn nhẹ giúp người mặc thoải mái vận động & tham gia các hoạt động thể thao.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 53
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 35
+                "name": "42",
+                "count": 3
             },
             {
-                "SizeName": "L",
-                "Quantity": 91
+                "name": "43",
+                "count": 2
             },
             {
-                "SizeName": "XL",
-                "Quantity": 43
-            }
-        ]
-    },
-    {
-        "ProductID": 93,
-        "ProductName": "Quần Short Thể Thao Nam, Cạp Chun, In Chữ Trẻ Trung",
-        "productPrice": 429000,
-        "ProductDescription": "Quần Short Thể Thao, Cạp Chun, In Chữ Trẻ Trung là mẫu quần short thể thao mang phong cách thể thao với kiểu dáng Slim fit vừa vặn, tôn dáng mà vẫn đảm bảo trải nghiệm thoải mái trong mọi hoạt động. Quần được thiết kế basic với túi vát 2 bên tiện lợi, họa tiết hình in nổi cao cấp, bền đẹp và không lo bong tróc. Bảng màu đa dạng, dễ mặc, dễ phối, phù hợp với nhiều hoạt động như mặc thường ngày, đi chơi, đi tập gym, chạy bộ... Đây là item luôn được yêu thích tại 5S Fashion.\r\n\r\nThành phần chất vải chỉ có 14.5% Cotton nhưng loại vải này có bề mặt ngoài mang đậm chất cotton, mềm mại, thấm hút, thoáng mát. Tencel - một chất liệu vải sinh học cao cấp hơn cả Modal, an toàn và thân thiện với môi trường, sử dụng công nghệ Nano nên sợi vải siêu mảnh cỡ các hạt Nano giúp bề mặt vải mềm, siêu mịn, chống nhăn hiệu quả và có nhiều đặc điểm tương tự Modal. Kết hợp cùng 66% Polyester ở mặt trong tạo độ mướt giảm sự cọ sát lên da, giúp tăng độ bền, độ bóng sắc nét, tăng độ bền màu của vải và giúp giá giảm giá thành. 5% Spandex giúp vải có độ co giãn nhẹ giúp người mặc thoải mái vận động & tham gia các hoạt động thể thao.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 53
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 35
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 91
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 43
-            }
-        ]
-    },
-    {
-        "ProductID": 94,
-        "ProductName": "Quần Short Thể Thao Nam, Thoáng Khí, Kháng Khuẩn ",
-        "productPrice": 429000,
-        "ProductDescription": "Quần Short Thể Thao 5S Fashion, Thoáng Khí, Kháng Khuẩn QSB23203 sở hữu bề mặt mềm mượt, mát, mau khô cùng khả năng giữ phom quần khỏe khoắn, bền đẹp và không lo nhăn nhàu. Điểm nhấn của thiết kế này nằm ở đường kẻ line phối màu dọc 2 bên sườn quần mang tới diện mạo trẻ trung, khỏe khoắn cho người mặc. \r\n\r\nChất liệu Polyamide hay còn có tên gọi khác của Freezing Nylon, thường được dùng cho dòng quần short thể thao. Với ưu điểm mềm mướt, bề mặt sáng bóng và nhẵn mịn, sợi vải mát lạnh, nhuộm màu sắc nét và tính đàn hồi tự nhiên cao. Kết hợp với tỉ lệ Spandex cao giúp sản phẩm có độ đàn hồi cực tốt, giúp người mặc thoải mái vận động & tham gia các hoạt động thể thao.\r\n\r\nNgoài ra, khi kết hợp với thành phần Viscose là loại sợi tổng hợp từ chất xơ của sợi cellulose làm từ bột gỗ như cây sồi, thông, bạch đàn, cây tre… Đặc tính của Viscose khá mềm mịn, bóng mượt, thoáng khí, khả năng thấm hút mồ hôi và kháng khuẩn tốt. Dễ dàng nhuộm màu để tạo ra những cuộn vải có màu sắc đẹp mắt, thu hút hơn. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 51
+                "name": "44",
+                "count": 1
             },
             {
-                "SizeName": "M",
-                "Quantity": 95
+                "name": "45",
+                "count": 2
             },
             {
-                "SizeName": "L",
-                "Quantity": 34
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 77
-            }
-        ]
-    },
-    {
-        "ProductID": 95,
-        "ProductName": "Quần Short Thể Thao Nam, Thiết Kế Cạp Cúc Xẻ Gấu Thời Trang",
-        "productPrice": 499000,
-        "ProductDescription": "Quần Short Thể Thao Nam, Thiết Kế Cạp Cúc Xẻ Gấu Thời Trang sở hữu phom dáng Slim fit ôm vừa vặn, tôn dáng, mang đến diện mạo trẻ trung cho nam giới. Điểm nhấn của mẫu quần này nằm ở thiết kế cạp cúc xẻ gấu thời trang, năng động, thích hợp với hoạt động di chuyển, tập luyện... nhưng vẫn luôn lịch sự, tạo cảm giác thoải mái trong mọi hoạt động. Đặc biệt, lỗ thoáng khi ở 2 bên đùi giúp mang tới trải nghiệm thoáng mát tối đa khi mặc, không bị bí bách hay bết dính mồ hôi. Thiết kế túi vát 2 bên kết hợp với khóa kéo tiện dụng, thích hợp để đựng điện thoại, ví, chìa khóa mà không lo bị rơi... \r\n\r\nQuần short thể thao được làm từ chất liệu Polyamide với bề mặt vải mềm mượt, mát, mau khô, đặc biệt thoáng khí, không bết dính mồ hôi. Việc bổ sung thêm thành phần Spandex giúp tăng độ co giãn, đàn hồi, để bạn nam thoải mái trong mọi hoạt động mà không lo nhăn nhàu, giữ form quần khỏe khoắn, bền đẹp. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 43
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 55
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 36
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 77
+                "name": "46",
+                "count": 3
             }
         ]
     },
     {
-        "ProductID": 96,
-        "ProductName": "Quần Short Thể Thao Nam, Thoáng Khí, Thấm Hút Mồ Hôi",
-        "productPrice": 389000,
-        "ProductDescription": "Quần Short Thể Thao Nam, Thoáng Khí, Thấm Hút Mồ Hôi là thiết kế quần short cạp chun mới nhất trong bộ sưu tập quần short thể thao từ 5S Fashion giúp bạn thể hiện phong cách trẻ trung, năng động và khỏe khoắn. Điểm cộng của thiết kế này nằm ở phần cạp chun kết hợp với dây buộc co giãn linh hoạt, dễ dàng điều chỉnh vòng bụng sao cho vừa vặn nhất, mang tới trải nghiệm thoáng mát tối đa trong mọi hoạt động.\r\n\r\nChi tiết chữ \"Breaks\" ứng dụng công nghệ in ép nhiệt cao cấp, bền đẹp, không lo bong tróc trong quá trình mặc. Thiết kế túi vát 2 bên và túi sau tiện dụng, dễ dàng mang theo ví, điện thoại khi đi chơi, đi tập... Đây là item trendy, khỏe khoắn, phù hợp để mặc hằng ngày, đi dạo phố hay tham gia các hoạt động ngoài trời đều giúp nam giới trở nên tự tin hơn bao giờ hết.\r\n\r\nQuần short thể thao được làm từ chất liệu Polyamide kết hợp với Rayon sở hữu những ưu điểm vượt trội như bề mặt vải siêu mềm mịn, dễ chịu, khả năng thấm hút cao, bay hơi nhanh chóng, độ co giãn đàn hồi tốt cùng độ bền cao. Đây cũng là dòng chất liệu mới, vừa mềm mại, vừa thoáng mát tối đa mà nam giới không nên bỏ lỡ. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 43
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 55
-            },
+        "name": "triple-s track",
+        "condition": "87",
+        "category": "sneakers",
+        "description": "Giày đã qua một số lần sử dụng rõ rệt, có dấu hiệu hao mòn cả ở đế và bề mặt. Đế giày có thể mòn ở một số chỗ, nhưng vẫn còn đủ độ bám để sử dụng. Bề mặt giày có thể có các vết trầy xước rõ hơn hoặc vài vết bẩn, nhưng tổng thể vẫn chấp nhận được.",
+        "gender": "Unisex",
+        "price": 22700,
+        "countInStock": 11,
+        "sizes": [
             {
-                "SizeName": "L",
-                "Quantity": 36
+                "name": "42",
+                "count": 2
             },
-            {
-                "SizeName": "XL",
-                "Quantity": 81
-            }
-        ]
-    },
-    {
-        "ProductID": 97,
-        "ProductName": "Quần Short Thể Thao Nam Kháng Khuẩn",
-        "productPrice": 429000,
-        "ProductDescription": "Quần Short Thể Thao Nam Kháng Khuẩn là mẫu quần với kiểu dáng Slim fit ôm vừa vặn mà vẫn đảm bảo thoải mái, thoáng mát cho người mặc trong mọi hoạt động. Đây cũng là mẫu quần giúp bạn nam có thể tự tin phối với áo polo, T-shirt, tnaktop để mặc hằng ngày, tập luyện hay đi chơi. Thiết kế cạp chun linh hoạt, dễ mặc với đường line phối màu chạy dọc 2 bên quần mang tới phong cách Sporty khỏe khoắn, nam tính cho người mặc. Đây là một trong những item luôn nằm trong top sản phẩm bán chạy của 5S Fashion.\r\n\r\nQuần short thể thao được làm từ chất liệu Polyamide với bề mặt vải mềm - mượt - mát - mau khô, đặc biệt thoáng khí và không lo bết dính mồ hôi trong mọi hoạt động. Kết hợp với thành phần chất liệu Viscose và Spandex giúp vải có những hiệu ứng melange rõ nét với tính thẩm mỹ cao. Cùng với đó là những tính năng mà Polyester có thể bổ trợ cho Polyamide như: Tăng độ bền vải, tăng khả năng thấm hút mồ hôi và giúp sản phẩm nhanh khô.",
-        "Sizes": [
             {
-                "SizeName": "S",
-                "Quantity": 43
+                "name": "43",
+                "count": 3
             },
             {
-                "SizeName": "M",
-                "Quantity": 55
+                "name": "44",
+                "count": 3
             },
             {
-                "SizeName": "L",
-                "Quantity": 36
+                "name": "45",
+                "count": 3
             },
             {
-                "SizeName": "XL",
-                "Quantity": 81
+                "name": "46",
+                "count": 0
             }
         ]
     },
     {
-        "ProductID": 98,
-        "ProductName": "Quần Short Thể Thao Nam, Thoáng Mát, Co Giãn",
-        "productPrice": 449000,
-        "ProductDescription": "Quần Short Thể Thao Nam, Thoáng Mát, Co Giãn được thiết kế theo phong cách trẻ trung, tôn dáng, thích hợp cho mọi hoạt động, dù là mặc thường ngày hay đi tập, đi chạy bộ... Chất liệu cao cấp, vừa mỏng nhẹ, vừa thoáng mát cùng khả năng chống nhăn nhàu vượt trội, giúp giữ cho chiếc quần luôn đứng phom, khỏe khoắn khi mặc. Bảng màu đa dạng, chủ yếu là các gam màu trầm dễ mặc, dễ phối. \r\n\r\nThiết kế basic với 2 túi vát và 1 túi sau tiện dụng. Cạp chun với dây điều chỉnh giúp chiếc quần trở nên thoải mái hơn khi mặc, phù hợp với mọi dáng người. Điểm nhấn của mẫu quần này nằm ở logo thêu tay bên đùi vô cùng tinh tế, tỉ mỉ mang tới diện mạo thanh lịch, nam tính mà không kém phần thoải mái.",
-        "Sizes": [
+        "name": "vicose shirt",
+        "condition": "82",
+        "category": "shirts",
+        "description": "Áo đã được mặc nhiều lần, có dấu hiệu hao mòn rõ ràng. Vải có thể bị giãn hoặc sờn ở một số khu vực. Màu sắc có thể phai rõ rệt, và có thể có những vết nhăn hoặc sờn không thể khắc phục hoàn toàn.",
+        "gender": "For men",
+        "price": 45000,
+        "countInStock": 8,
+        "sizes": [
             {
-                "SizeName": "S",
-                "Quantity": 84
+                "name": "M",
+                "count": 1
             },
             {
-                "SizeName": "M",
-                "Quantity": 94
+                "name": "L",
+                "count": 2
             },
             {
-                "SizeName": "L",
-                "Quantity": 43
+                "name": "XL",
+                "count": 3
             },
             {
-                "SizeName": "XL",
-                "Quantity": 62
+                "name": "2XL",
+                "count": 2
             }
         ]
     },
     {
-        "ProductID": 99,
-        "ProductName": "Quần Short Thể Thao Nam, Cạp Chun, Thoáng Mát",
-        "productPrice": 398000,
-        "ProductDescription": "Quần Short Thể Thao Nam, Thoáng Mát, Co Giãn được thiết kế theo phong cách trẻ trung, tôn dáng, thích hợp cho mọi hoạt động, dù là mặc thường ngày hay đi tập, đi chạy bộ... Chất liệu cao cấp, vừa mỏng nhẹ, vừa thoáng mát cùng khả năng chống nhăn nhàu vượt trội, giúp giữ cho chiếc quần luôn đứng phom, khỏe khoắn khi mặc. Bảng màu đa dạng, chủ yếu là các gam màu trầm dễ mặc, dễ phối. \r\n\r\nThiết kế basic với 2 túi vát và 1 túi sau tiện dụng. Cạp chun với dây điều chỉnh giúp chiếc quần trở nên thoải mái hơn khi mặc, phù hợp với mọi dáng người. Điểm nhấn của mẫu quần này nằm ở logo thêu tay bên đùi vô cùng tinh tế, tỉ mỉ mang tới diện mạo thanh lịch, nam tính mà không kém phần thoải mái.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 84
-            },
+        "name": "triple-s fake fur",
+        "condition": "81",
+        "category": "sneakers",
+        "description": "Giày đã được sử dụng nhiều, có dấu hiệu mòn rõ ràng. Đế giày có thể mòn nhiều hơn, độ bám giảm so với lúc mới. Bề mặt giày có nhiều vết xước hoặc vết bẩn, có thể có các khuyết điểm như bong tróc nhỏ, nhưng không ảnh hưởng lớn đến khả năng sử dụng.",
+        "gender": "For Men",
+        "price": 53800,
+        "countInStock": 11,
+        "sizes": [
             {
-                "SizeName": "M",
-                "Quantity": 94
+                "name": "42",
+                "count": 2
             },
             {
-                "SizeName": "L",
-                "Quantity": 43
+                "name": "43",
+                "count": 3
             },
             {
-                "SizeName": "XL",
-                "Quantity": 62
-            }
-        ]
-    },
-    {
-        "ProductID": 100,
-        "ProductName": "Quần Short Thể Thao Nam, Thoáng Mát, Thấm Hút Mồ Hôi",
-        "productPrice": 479000,
-        "ProductDescription": "Quần Short Thể Thao, Thoáng Mát, Thấm Hút Mồ Hôi nổi bật với kiểu dáng dáng Slim fit ôm vừa vặn, tôn dáng mà vẫn đảm bảo cảm giác thoải mái khi vận động. Đây là item quần short thể thao \"hot\" của nhà 5S Fashion giúp dễ dàng phối kết hợp với mọi loại áo hè mà ai cũng cần có trong tủ đồ. Thiết kế cạp cúc lịch sự, tôn dáng giúp mẫu quần này phù hợp mặc cả khi đi chơi, đi dạo phố, hẹn hò hay mặc hằng ngày ở nhà.\r\n\r\nThiết kế túi vát 2 bên kết hợp cùng túi sau tiện lợi. Bảng màu đa dạng với các tone màu từ trung tính, dễ mặc và dễ phối. Quần với sự kết hợp của 2 thành phần chất liệu là 90% Polyamide 10% Spandex. Polyamide là tên gọi khác của Freezing Nylon, thường được dùng cho dòng quần short, sịp. Với ưu điểm mềm mướt, bề mặt sáng bóng và nhẵn mịn, sợi vải mát lạnh, nhuộm màu sắc nét và tính đàn hồi tự nhiên cao. Kết hợp với tỉ lệ Spandex cao giúp sản phẩm có độ đàn hồi cực tốt, giúp người mặc thoải mái vận động & tham gia các hoạt động thể thao.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 53
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 81
+                "name": "44",
+                "count": 3
             },
             {
-                "SizeName": "L",
-                "Quantity": 51
+                "name": "45",
+                "count": 0
             },
             {
-                "SizeName": "XL",
-                "Quantity": 82
+                "name": "46",
+                "count": 3
             }
         ]
     },
     {
-        "ProductID": 101,
-        "ProductName": "Quần Short Thể Thao Nam, Cạp Cúc In Chữ Keep Fit",
-        "productPrice": 399000,
-        "ProductDescription": "Quần Short Thể Thao Nam, Cạp Cúc In Chữ Keep Fit là item manh phong cách thể thao, khỏe khoắn không thể thiếu trong mùa hè này. Với chất liệu cao cấp, vừa mỏng nhẹ, thoáng mát, vừa chống nhăn nhàu hiệu quả, giúp cho quần short thể thao luôn đứng form, khỏe khoắn khi mặc. Với kiểu dáng Slim fit ôm dáng vừa vặn, quần giúp các chàng trai tự tin khoe ra vóc dáng cơ thể săn chắc và chuẩn đẹp. Bảng màu đa dạng với các tone màu trung tính, dễ mặc, dễ phối và đặc biệt mát mẻ cho ngày hè oi bức.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 53
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 81
-            },
+        "name": "pro warm long sleeve",
+        "condition": "98",
+        "category": "shirts",
+        "description": "Áo sơ mi còn rất mới, chưa được mặc hoặc chỉ rất ít lần. Vải vẫn còn sắc sảo, không có nếp nhăn hay dấu hiệu giặt. Màu sắc tươi mới, không có bất kỳ vết bẩn hay sờn rách nào.",
+        "gender": "Unisex",
+        "price": 18000,
+        "countInStock": 8,
+        "sizes": [
             {
-                "SizeName": "L",
-                "Quantity": 51
+                "name": "M",
+                "count": 0
             },
-            {
-                "SizeName": "XL",
-                "Quantity": 82
-            }
-        ]
-    },
-    {
-        "ProductID": 102,
-        "ProductName": "Quần Short Thể Thao Nam, Vải Thun Lạnh Thoáng Mát",
-        "productPrice": 349000,
-        "ProductDescription": "Quần Short Nam, Vải Thun Lạnh Thoáng Mát là thiết kế vừa đáp ứng tiêu chí thời trang, cuốn hút, vừa tiện dụng, thoải mái trong mọi hoạt động. Thiết kế đơn giản, phối màu chạy dọc 2 bên quần tạo ứng năng động, khỏe khoắn cho tổng thể. Chất liệu Freezing Nylon mềm mát, co giãn tốt, thấm hút mồ hôi, đem lại trải nghiệm thoáng mát tối đa khi mặc. Bảng màu đa dạng, chủ yếu là các tone màu trung tính, dễ mặc, thích hợp để mặc hằng ngày hay tham gia các hoạt động thể thao như chạy bộ, tập gym...  ",
-        "Sizes": [
             {
-                "SizeName": "S",
-                "Quantity": 82
+                "name": "L",
+                "count": 2
             },
             {
-                "SizeName": "M",
-                "Quantity": 34
+                "name": "XL",
+                "count": 2
             },
             {
-                "SizeName": "L",
-                "Quantity": 82
+                "name": "2XL",
+                "count": 2
             },
             {
-                "SizeName": "XL",
-                "Quantity": 45
+                "name": "3XL",
+                "count": 2
             }
         ]
     },
     {
-        "ProductID": 103,
-        "ProductName": "Quần Short Thể Thao Nam, Cạp Chun, Thoáng Mát",
-        "productPrice": 409000,
-        "ProductDescription": "Quần Short Thể Thao Nam, Cạp Chun, Thoáng Mát là must have item không thể thiếu trong tủ đồ của nam giới với khả năng chống nhăn lên tới 99%. Với chất liệu cao cấp, mỏng nhẹ, thoáng mát, giữ cho chiếc quần luôn đứng form, khỏe khoắn khi mặc. Bảng màu quần đa dạng, thiết kế đơn giản, trẻ trung mang phong cách thể thao, khỏe khoắn, phù hợp với mọi lứa tuổi. Đây là mẫu quần short thể thao được yêu thích nhất tại.\r\n\r\nQuần có kiểu dáng Slim fit vừa vặn, tôn dáng mà vẫn đảm bảo mang tới trải nghiệm thoải mái trong từng cử động. Thiết kế khỏe khoắn với túi quần tiện dụng. Quần có cạp chun co giãn kết hợp với dây rút linh hoạt giúp người mặc dễ dàng điều chỉnh và thoải mái trong từng vận động. ",
-        "Sizes": [
+        "name": "air zoom pegasus 38 shield",
+        "condition": "84",
+        "category": "sneakers",
+        "description": "Giày đã được sử dụng nhiều, có dấu hiệu mòn rõ ràng. Đế giày có thể mòn nhiều hơn, độ bám giảm so với lúc mới. Bề mặt giày có nhiều vết xước hoặc vết bẩn, có thể có các khuyết điểm như bong tróc nhỏ, nhưng không ảnh hưởng lớn đến khả năng sử dụng.",
+        "gender": "For Men",
+        "price": 61450,
+        "countInStock": 13,
+        "sizes": [
             {
-                "SizeName": "S",
-                "Quantity": 82
+                "name": "42",
+                "count": 2
             },
-            {
-                "SizeName": "M",
-                "Quantity": 34
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 82
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 45
-            }
-        ]
-    },
-    {
-        "ProductID": 104,
-        "ProductName": "Quần Short Thể Thao Nam, Cạp Chun Thoáng Khí ",
-        "productPrice": 389000,
-        "ProductDescription": "Quần Short Thể Thao Nam, Cạp Chun Thoáng Khí sở hữu phom dáng Slim fit ôm vừa vặn, tôn dáng mà vẫn đảm bảo trải nghiệm thoải mái khi vận động. Quần short thể thao được thiết kế khỏe khoắn với túi 2 bên và túi sau mông tiện lợi. Thiết kế cạp chun co giãn kết hợp với dây rút linh hoạt, dễ dàng phù hợp với mọi dáng người khác nhau. Bảng màu quần đa dạng, chủ yếu là các gam màu trung tính, dễ mặc, dễ phối, đem tới nhiều lựa kết hợp trang phục cho mùa hè này.",
-        "Sizes": [
             {
-                "SizeName": "S",
-                "Quantity": 44
+                "name": "43",
+                "count": 3
             },
             {
-                "SizeName": "M",
-                "Quantity": 52
+                "name": "44",
+                "count": 2
             },
             {
-                "SizeName": "L",
-                "Quantity": 68
+                "name": "45",
+                "count": 3
             },
             {
-                "SizeName": "XL",
-                "Quantity": 45
+                "name": "46",
+                "count": 3
             }
         ]
     },
     {
-        "ProductID": 105,
-        "ProductName": "Quần Short Thể Thao Nam, RUNNING, Thoáng Mát",
-        "productPrice": 409000,
-        "ProductDescription": "Quần Short Thể Thao Nam RUNNING, Thoáng Mát, Nhanh Khô là mẫu quần được thiết kế với form dáng Slim fit ôm nhẹ vừa vặn mà vẫn đảm bảo cảm giác thoải mái khi vận động. Sở hữu thiết kế basic khỏe khoắn, túi quần trước sau tiện lợi cùng phần cạp cục nam tính, chỉn chu, mẫu quần short thể thao này có thể dễ dàng phối kết hợp với hầu hết các trang phục khác nhau.\r\n\r\nĐây là mẫu quần short thể thao cạp cúc phối can cạp chun lót bên trong vừa mang đến diện mạo chỉn chu, thanh lịch, vừa không lo gò bó khi mặc. Logo Just Keep Running trước gấu quần được in silicon nổi bằng công nghệ High-tech cao cấp, đảm bảo không bong tróc trong quá trình sử dụng, giặt là. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 64
-            },
+        "name": "air zoom pegasus 38 shield white",
+        "condition": "87",
+        "category": "sneakers",
+        "description": "Giày đã qua một số lần sử dụng rõ rệt, có dấu hiệu hao mòn cả ở đế và bề mặt. Đế giày có thể mòn ở một số chỗ, nhưng vẫn còn đủ độ bám để sử dụng. Bề mặt giày có thể có các vết trầy xước rõ hơn hoặc vài vết bẩn, nhưng tổng thể vẫn chấp nhận được.",
+        "gender": "Unisex",
+        "price": 62500,
+        "countInStock": 18,
+        "sizes": [
             {
-                "SizeName": "M",
-                "Quantity": 86
+                "name": "38",
+                "count": 2
             },
             {
-                "SizeName": "L",
-                "Quantity": 68
+                "name": "39",
+                "count": 3
             },
-            {
-                "SizeName": "XL",
-                "Quantity": 59
-            }
-        ]
-    },
-    {
-        "ProductID": 106,
-        "ProductName": "Quần Short Thể Thao Nam, Cạp Chun Thoải Mái",
-        "productPrice": 399000,
-        "ProductDescription": "Quần Short Thể Thao Nam, Cạp Chun Thoải Mái là mẫu quần short thể thao làm từ chất liệu Polyamide thoáng khí, không lo bết dính mồ hôi khi mặc. Đặc biệt, mẫu quần này sở hữu bề mặt vải mềm mượt, mát, thoáng khí và mau khô mà vẫn giữ form tốt, bền đẹp mang đến vẻ ngoài năng động, khỏe khoắn cho nam giới. Đây là mẫu quần short độc quyền của 5S Fashion với thiết kế basic, phù hợp với mọi độ tuổi cùng chất liệu bền đẹp, thoáng mát và mau khô, không lo nhăn nhàu trong suốt quá trình sử dụng.\r\n\r\nQuần short thể thao có kiểu dáng Slim fit ôm vừa vặn, tôn dáng kết hợp cùng thiết kế lỗ thông hơi siêu thoáng khí, hút ẩm nhanh và đánh bay mồ hôi bết dính trên da. Đây là thiết kế quần short thể thao basic với màu sắc cơ bản, dễ mặc, dễ phối với hầu hết các loại trang phục khác nhau. ",
-        "Sizes": [
             {
-                "SizeName": "S",
-                "Quantity": 64
+                "name": "40",
+                "count": 2
             },
             {
-                "SizeName": "M",
-                "Quantity": 86
+                "name": "41",
+                "count": 2
             },
             {
-                "SizeName": "L",
-                "Quantity": 68
+                "name": "42",
+                "count": 0
             },
             {
-                "SizeName": "XL",
-                "Quantity": 59
-            }
-        ]
-    },
-    {
-        "ProductID": 107,
-        "ProductName": "Quần Short Thể Thao Nam, Thoáng Khí",
-        "productPrice": 389000,
-        "ProductDescription": "Quần Short Thể Thao Nam, Thoáng Khí là mẫu quần không thể bỏ qua trong mùa hè này nhờ thiết kế lỗ thông hơi siêu thoáng khí, hút ẩm nhanh, đánh bay mồ hôi bết dính trên da. Với chất liệu 86% Polyamide 14% Spandex, quần short thể thao nổi bật với những ưu điểm như: mềm mượt, nhẵn mịn, sợi vải mát lạnh với tính đàn hồi tự nhiên cao. Đây được xem là mẫu quần short thể thao hoàn hảo cho các hoạt động thể dục thể thao, tập gym, chạy bộ mang đến trải nghiệm thoải mái và thoáng mát tối đa. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 32
+                "name": "43",
+                "count": 3
             },
             {
-                "SizeName": "M",
-                "Quantity": 34
+                "name": "44",
+                "count": 3
             },
             {
-                "SizeName": "L",
-                "Quantity": 61
+                "name": "45",
+                "count": 0
             },
             {
-                "SizeName": "XL",
-                "Quantity": 59
+                "name": "46",
+                "count": 3
             }
         ]
     },
     {
-        "ProductID": 108,
-        "ProductName": "Quần Kaki Dài Nam, Đứng Phom, Tôn Dáng",
-        "productPrice": 649000,
-        "ProductDescription": "Quần Kaki Dài Nam, Đứng Phom, Tôn Dáng nổi bật với kiểu dáng Slim fit vừa vặn, tôn dáng mà vẫn đảm bảo cảm giác thoải mái khi mặc. Độ dài quần vừa phải, bảng màu đâ dạng, phù hợp với mọi lứa tuổi. Với chất liệu 97% Cotton, quần dài kaki giúp giải quyết nỗi lo nóng bí, khó khăn khi vận động, nhất là trong những ngày tiết trời mùa hè oi bức. Đặc biệt, việc bổ sung thêm 3% thành phần Spandex giúp nâng cao trải nghiệm về độ co giãn, đem tới cảm giác thoải mái khi mặc. Đây là một trong những mẫu quần công sở bán chạy nhất tại 5S Fashion mà các chàng trai không nên bỏ lỡ.",
-        "Sizes": [
+        "name": "dri-fit run division fast",
+        "condition": "85",
+        "category": "gym",
+        "description": "An essential gets remixed for the winter months. The Nike Dri-FIT Run Division Fast Leggings helps make your cool-weather miles count with sweat-wicking technology and soft fabric. Stretchy and supportive, they use an adjustable, mid-rise waistband for a comfortable feel on the go. Convinient pockets keep essentials close. This product is made from at least 50% recycled polyster fibres.",
+        "gender": "For Women",
+        "price": 18000,
+        "countInStock": 9,
+        "sizes": [
             {
-                "SizeName": "S",
-                "Quantity": 45
+                "name": "S",
+                "count": 0
             },
             {
-                "SizeName": "M",
-                "Quantity": 43
+                "name": "M",
+                "count": 1
             },
             {
-                "SizeName": "L",
-                "Quantity": 94
+                "name": "L",
+                "count": 2
             },
             {
-                "SizeName": "XL",
-                "Quantity": 29
+                "name": "XL",
+                "count": 3
             },
             {
-                "SizeName": "2XL",
-                "Quantity": 51
-            }
-        ]
-    },
-    {
-        "ProductID": 109,
-        "ProductName": "Tất Nam, Kháng Khuẩn, Khử Mùi ",
-        "productPrice": 19000,
-        "ProductDescription": "Tất Nam sử dụng chất liệu Cotton mềm mại, thấm hút mồ tốt, sản phẩm giữ cho đôi chân luôn thoáng mát nên rất phù hợp với những ai thường mang giày cả ngày. Sản phẩm được dệt bo tròn cổ đảm bảo không bị tụt trong suốt quá trình vận động, đi lại.",
-        "Sizes": [
-            {
-                "SizeName": "M",
-                "Quantity": 100
+                "name": "XXL",
+                "count": 3
             }
         ]
     },
     {
-        "ProductID": 110,
-        "ProductName": "Quần Short Âu Nam, Cạp Cúc, Thêu Logo Sang Trọng",
-        "productPrice": 569000,
-        "ProductDescription": "Quần Short Âu Nam, Cạp Cúc, Thêu Logo Sang Trọng là mẫu quần được ưa chuộng nhờ thiết kế basic với đường cắt may tinh tế, tỉ mỉ, mang đến diện mạo chỉn chu, lịch lãm cho quý ông trong mọi hoàn cảnh. Quần có form dáng Regular fit suông vừa, không ôm quá sát nhưng vẫn tôn dáng, tạo cảm giác thoải mái cho người mặc. Quần sở hữu bảng màu đa dạng với các tone màu trung tính, dễ mặc và dễ phối cho bạn nam thỏa sức lựa chọn. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 34
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 23
-            },
+        "name": "womens mid-rise printed leggings",
+        "condition": "87",
+        "category": "gym",
+        "description": "Ready for a workout or down to chill -- the Nike Dri-FIT One leggings are decorated with a leopard print that glitters. Their comfortable design wicks sweat to help keep you dry. Plus, you can't see through the fabric, so you can feel confident knowing you're covered. This product is made from at least 50% recycled polyster fibres.",
+        "gender": "For Women",
+        "price": 15990,
+        "countInStock": 9,
+        "sizes": [
             {
-                "SizeName": "L",
-                "Quantity": 34
+                "name": "S",
+                "count": 0
             },
-            {
-                "SizeName": "XL",
-                "Quantity": 43
-            }
-        ]
-    },
-    {
-        "ProductID": 111,
-        "ProductName": "Quần Short Kaki Nam, Thiết Kế Cạp Cúc, Trẻ Trung",
-        "productPrice": 499000,
-        "ProductDescription": "Quần Short Kaki Nam, Thiết Kế Cạp Cúc, Trẻ Trung là sản phẩm năm trong bộ sưu tập quần short kaki đang được ưa chuộng. Với kiểu dáng Slim fit vừa vặn, tôn dáng, quần short kaki vừa mang tới diện mạo thanh lịch cho nam giới, vừa đảm bảo sự thoải mái trong mọi hoạt động. \r\n\r\nQuần được làm từ sự kết hợp của các thành phần chất liệu chỉ 14.5% Cotton nhưng loại vải này có bề mặt ngoài mang đậm chất cotton, mềm mại, thấm hút, thoáng mát. Tencel - một chất liệu vải sinh học cao cấp hơn cả Modal, an toàn và thân thiện với môi trường, sử dụng công nghệ Nano nên sợi vải siêu mảnh cỡ các hạt Nano giúp bề mặt vải mềm, siêu mịn, chống nhăn hiệu quả và có nhiều đặc điểm tương tự Modal. Kết hợp cùng 66% Polyester ở mặt trong tạo độ mướt giảm sự cọ sát lên da, giúp tăng độ bền, độ bóng sắc nét, tăng độ bền màu của vải và giúp giá giảm giá thành. 5% Spandex giúp vải có độ co giãn nhẹ giúp người mặc thoải mái vận động & tham gia các hoạt động thể thao.",
-        "Sizes": [
             {
-                "SizeName": "S",
-                "Quantity": 34
+                "name": "M",
+                "count": 1
             },
             {
-                "SizeName": "M",
-                "Quantity": 23
+                "name": "L",
+                "count": 2
             },
             {
-                "SizeName": "L",
-                "Quantity": 42
+                "name": "XL",
+                "count": 3
             },
             {
-                "SizeName": "XL",
-                "Quantity": 49
+                "name": "XXL",
+                "count": 3
             }
         ]
     },
     {
-        "ProductID": 112,
-        "ProductName": "Quần Short Kaki Nam, Cạp Cúc, Vải Tencel Thoáng Mát",
-        "productPrice": 429000,
-        "ProductDescription": "Quần Short Kaki Nam, Cạp Cúc, Vải Tencel Thoáng Mát với kiểu dáng Slim fit vừa vặn, tôn dáng, dễ dàng kết hợp với hầu hết mọi kiểu áo trong tủ đồ. Thiết kế túi vát 2 bên và 2 túi sau có cúc cài vừa tăng tính thẩm mỹ, thanh lịch cho chiếc, vừa bảo quản ví, điện thoại tốt hơn. Bảng màu đa dạng chủ yếu là các gam màu trung tính, dễ mặc, dễ phối. \r\n\r\nQuần được làm từ vải Tencel (hay còn có tên gọi khác là Lyocell) là loại vải sinh học an toàn và thân thiện với môi trường nhất hiện nay. Loại vải này có nguồn gốc từ gỗ cây sồi với những ưu điểm vượt trội như thấm hút tốt, độ đàn hồi cao, dễ dàng nhuộm màu và thân thiện với làn da của người mặc. Việc bổ sung thêm thành phần Polyester và Spandex giúp vải quần bền đẹp, tăng độ co giãn, đàn hồi thoải mái khi mặc và ít bám bụi, dễ vệ sinh hơn. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 43
-            },
+        "name": "jordan jumpman sports bra",
+        "condition": "96",
+        "category": "gym",
+        "description": "Wear the look you love up top with the Jordan Jumpman sports Bra. For every rep, step and jump, know that you are supported. It capture all your favourite sneaker elements and Swoosh details in a supportive design made from at least 75% recycled polyster fibres.",
+        "gender": "For Women",
+        "price": 12800,
+        "countInStock": 12,
+        "sizes": [
             {
-                "SizeName": "M",
-                "Quantity": 51
+                "name": "S",
+                "count": 2
             },
-            {
-                "SizeName": "L",
-                "Quantity": 42
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 49
-            }
-        ]
-    },
-    {
-        "ProductID": 113,
-        "ProductName": "Quần Short Kaki Nam, Vải Cotton Co Giãn Thoải Mái",
-        "productPrice": 429000,
-        "ProductDescription": "Quần Short Kaki Nam, Vải Cotton Co Giãn Thoải Mái với kiểu dáng Slim fit vừa vặn, tôn dáng mà vẫn thoải mái trong mọi hoạt động, giúp nam giới tự tin mỗi ngày. Quần short kaki nổi bật với thiết kế cạp cúc sang trọng kết hợp cùng 2 túi vát và túi sau có cúc cài vừa tinh tế, vừa tiện lợi. Đây được xem là item không thể thiếu trong tủ đồ của nam giới vào mùa hè, dễ dàng phối kết hợp với hầu hết các kiểu áo đa dạng như polo, t-shirt... của nhà 5S Fashion.\r\n\r\nChất vải Cotton & Polyester khi kết hợp cùng Tencel - 1 loại sợi Nano cao cấp giúp cấu trúc vải chặt chẽ hơn, hạn chế bai rão, bề mặt vải cũng mềm, mịn hơn nhờ các sợi Tencel Nano đan xen giữa các khoảng trống của vải Cotton/Polyester. Tencel có tính kháng khuẩn tương tự Modal và có khả năng chống nhăn giúp anh chàng giữ được dáng vẻ thanh lịch, nam tính suốt cả ngày dài. ",
-        "Sizes": [
             {
-                "SizeName": "S",
-                "Quantity": 51
+                "name": "M",
+                "count": 3
             },
             {
-                "SizeName": "M",
-                "Quantity": 41
+                "name": "L",
+                "count": 3
             },
             {
-                "SizeName": "L",
-                "Quantity": 42
+                "name": "XL",
+                "count": 2
             },
             {
-                "SizeName": "XL",
-                "Quantity": 43
+                "name": "2XL",
+                "count": 2
             }
         ]
     },
     {
-        "ProductID": 114,
-        "ProductName": "Quần Short Kaki Nam, Mềm Mại, Thoáng Mát",
-        "productPrice": 469000,
-        "ProductDescription": "Quần Short Kaki Nam, Mềm Mại, Thoáng Mát với kiểu dáng Slim fit vừa vặn, tôn dáng mà không ôm quá sát, đảm bảo sự thoải mái cho người mặc. Thiết kế basic với đường cắt may tỉ mỉ, mang đến diện mạo chỉn chu, thanh lịch và nam tính cho nam giới. Quần có túi xẻ hai bên kết hợp với túi sau có cúc cài tiện lợi, thích hợp để đựng ví, điện thoại, thẻ... \r\n\r\nThành phần chính của mẫu quần short kaki vẫn là Cotton, vẫn có những tính năng mềm mại, thoáng mát, thấm hút mồ hôi tốt. Khi kết hợp với Linen tạo ra hiệu ứng xược trắng trên bề mặt vải giúp mặt vải trở nên đẹp và lạ mắt. Ngoài ra Linen cũng là một chất tự nhiên nguồn gốc từ cây lanh có độ bền, độ bóng cao, an toàn cho da và thân thiện với môi trường.\r\n\r\nVới 5% Spandex giúp cho chất liệu vải thành phẩm có độ co giãn tương đối tốt, giúp người mặc thoải mái trong ngày Hè. Việc bổ sung thêm sợi Polyester giúp khắc phục nhược điểm bạc màu của dòng vải Cotton, tăng độ bền vải, chống nhăn, chống mài mòn tốt và giúp màu sắc vải bắt mắt hơn lại giúp giảm giá thành đáng kể. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 41
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 41
-            },
+        "name": "air max 95",
+        "condition": "91",
+        "category": "sneakers",
+        "description": "Giày đã được sử dụng nhưng vẫn còn rất tốt. Đế giày có dấu hiệu mòn nhẹ, nhưng vẫn đảm bảo chất lượng sử dụng. Bề mặt giày có thể có vài vết xước hoặc vết bẩn nhỏ, nhưng không ảnh hưởng đến hình thức chung.",
+        "gender": "Unisex",
+        "price": 48000,
+        "countInStock": 14,
+        "sizes": [
             {
-                "SizeName": "L",
-                "Quantity": 42
+                "name": "42",
+                "count": 2
             },
-            {
-                "SizeName": "XL",
-                "Quantity": 51
-            }
-        ]
-    },
-    {
-        "ProductID": 115,
-        "ProductName": "Quần Short Kaki Nam, Thiết Kết Cạp Cúc Smart",
-        "productPrice": 449000,
-        "ProductDescription": "Quần Short Kaki Nam, Thiết Kết Cạp Cúc Smart - Waist là lựa chọn dẫn đầu xu hướng thời trang hè hiện nay nhờ những ưu điểm vượt trội như thiết kế gọn gàng, tiện dụng. Điểm nhấn của mẫu quần này nằm ở phần cạp cúc Smart Waist thông minh với thiết kế giấu cúc sang trọng, thanh lịch, mang đến diện mạo nam tính đầy thu hút cho phái mạnh. Với màu sắc đa dạng cùng kiểu dáng Slim fit, tôn dáng, chuẩn phom, giúp người mặc thoải mái trong từng hoạt động.  \r\nQuần được làm từ Cotton truyền thống làm nên tên tuổi của dòng Khaki. Với sợi bông tự nhiên mang đặc tính vô cùng thoáng mát, thấm hút mồ hôi tốt. Thêm vào đó, kiểu dệt thoi giúp cho cấu trúc vải chắc chắn hơn, ít bị chảy hoặc giãn và tăng tuổi thọ của chiếc quần Kaki. Khi kết hợp với 3% Spandex giúp vải có độ co giãn nhẹ, giúp người mặc thoải mái hơn.",
-        "Sizes": [
             {
-                "SizeName": "S",
-                "Quantity": 51
+                "name": "43",
+                "count": 3
             },
             {
-                "SizeName": "M",
-                "Quantity": 21
+                "name": "44",
+                "count": 3
             },
             {
-                "SizeName": "L",
-                "Quantity": 51
+                "name": "45",
+                "count": 3
             },
             {
-                "SizeName": "XL",
-                "Quantity": 51
+                "name": "46",
+                "count": 3
             }
         ]
     },
     {
-        "ProductID": 116,
-        "ProductName": "Quần Short Kaki Nam, Thiết Kết Cạp Chun Pha Cúc",
-        "productPrice": 479000,
-        "ProductDescription": "Quần Short Kaki Nam, Thiết Kết Cạp Chun Pha Cúc là mẫu quần short thiết kế bán chun linh hoạt cho vòng bụng, vừa thoải mái nhưng vẫn đảm bảo diện mạo chỉn chu, lịch sự cho nam giới. Phần chun eo giúp tăng độ co giãn, dễ mặc hơn. Quần Short Kaki được may tỉ mi kèm chi tiết thêu tay 5S Matter cực kì tinh tế. Quần sở hữu khóa YKK cao cấp, bền bỉ, đảm bảo không hỏng hóc hay hoen gỉ trong quá trình sử dụng. \r\n\r\nVới kiểu dáng Slim fit ôm vừa vặn kết hợp cùng điểm nhấn ốp dây dệt bản họa tiết ở cạp sau của quần short kaki góp phần mang đến một thiết kế trẻ trung, mới mẻ, dễ dàng mix cùng hầu hết các trang phục trong tủ đồ. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 61
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 51
-            },
+        "name": "jordan ma2",
+        "condition": "93",
+        "category": "sneakers",
+        "description": "Giày đã được sử dụng nhưng vẫn còn rất tốt. Đế giày có dấu hiệu mòn nhẹ, nhưng vẫn đảm bảo chất lượng sử dụng. Bề mặt giày có thể có vài vết xước hoặc vết bẩn nhỏ, nhưng không ảnh hưởng đến hình thức chung.",
+        "gender": "For Men",
+        "price": 44750,
+        "countInStock": 15,
+        "sizes": [
             {
-                "SizeName": "L",
-                "Quantity": 21
+                "name": "42",
+                "count": 2
             },
             {
-                "SizeName": "XL",
-                "Quantity": 59
-            }
-        ]
-    },
-    {
-        "ProductID": 117,
-        "ProductName": "Quần Short Kaki Nam, Chất Cotton, Thoải Mái Vận Động",
-        "productPrice": 499000,
-        "ProductDescription": "Quần Short Kaki Nam, Chất Cotton, Thoải Mái Vận Động, là mẫu quần short mới với chất liệu Cotton Kaki thoáng mát, thấm hút mồ hôi và nhanh khô. Quần được thiết kế với kiểu dáng basic cùng cạp cúc sang trọng, thanh lịch, thích hợp để mặc hằng ngày, đi chơi, đi picnic đều phù hợp. Kiểu dáng Slim fit vừa vặn, tôn dáng, là item thiết thực nhất cho mùa hè nắng nóng giúp bạn nam luôn cảm thấy thoải mái trong từng chuyển động. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 81
+                "name": "43",
+                "count": 3
             },
             {
-                "SizeName": "M",
-                "Quantity": 47
+                "name": "44",
+                "count": 3
             },
             {
-                "SizeName": "L",
-                "Quantity": 39
+                "name": "45",
+                "count": 4
             },
             {
-                "SizeName": "XL",
-                "Quantity": 37
+                "name": "46",
+                "count": 3
             }
         ]
     },
     {
-        "ProductID": 118,
-        "ProductName": "Quần Short Kaki Nam, Chất Liệu Cotton, Co Giãn Thoải Mái",
-        "productPrice": 469000,
-        "ProductDescription": " \r\nQuần Short Kaki, Chất Liệu Cotton, Co Giãn Thoải Mái là item must have cho mùa hè và những chuyến đi nhờ thiết kế trẻ trung, nam tính cùng form dáng Slim fit ôm vừa vặn, tôn dáng. Với thiết kế basic cùng bảng màu đa dạng, đây chính là mẫu quần short kaki nam linh hoạt cho mọi lứa tuổi và mọi dáng người.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 51
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 57
-            },
+        "name": "jordan max aura 3",
+        "condition": "97",
+        "category": "sneakers",
+        "description": "Giày đã được sử dụng rất ít lần, nhìn gần như mới. Đế giày có thể có chút dấu hiệu mòn rất nhẹ, nhưng gần như không thấy rõ. Bề mặt giày không có vết trầy xước hoặc vết bẩn đáng kể, chỉ có vài dấu hiệu nhẹ từ việc sử dụng.",
+        "gender": "For Men",
+        "price": 63000,
+        "countInStock": 14,
+        "sizes": [
             {
-                "SizeName": "L",
-                "Quantity": 85
+                "name": "42",
+                "count": 3
             },
-            {
-                "SizeName": "XL",
-                "Quantity": 37
-            }
-        ]
-    },
-    {
-        "ProductID": 119,
-        "ProductName": "Quần Short Kaki Nam, Họa Tiết Hươu Bắt Mắt",
-        "productPrice": 439000,
-        "ProductDescription": "Quần Short Kaki, Họa Tiết Con Hươu Bắt Mắt luôn là lựa chọn ưu tiên của nam giới nhờ tính ứng dụng cao, có thể diện đi chơi, đi dạo phố, hẹn hò, tham gia các hoạt động thể thao hoặc đi biển. Quần có kiểu dáng Slim fit ôm vừa vặn, giúp người mặc tự tin, thoải mái khi hoạt động mà không lo bị khó chịu hay gò bó. Điểm nhấn nổi bật của thiết kế này nằm ở họa tiết con hượu trên phần thân quần mang phong cách trẻ trung, tươi mới. \r\n\r\nVới form dáng thông minh, độ dài vừa vặn, phù hợp với mọi lứa tuổi cùng bảng màu đa dạng, quần Short Kaki là lựa chọn dễ dàng kết hợp với mọi loại áo hè mà ai cũng nên có trong tủ đồ. \r\n\r\n",
-        "Sizes": [
             {
-                "SizeName": "S",
-                "Quantity": 81
+                "name": "43",
+                "count": 3
             },
             {
-                "SizeName": "M",
-                "Quantity": 57
+                "name": "44",
+                "count": 3
             },
             {
-                "SizeName": "L",
-                "Quantity": 71
+                "name": "45",
+                "count": 3
             },
             {
-                "SizeName": "XL",
-                "Quantity": 62
+                "name": "46",
+                "count": 2
             }
         ]
     },
     {
-        "ProductID": 120,
-        "ProductName": "Quần Short Kaki Nam, Chất Vải Bamboo Tự Nhiên",
-        "productPrice": 429000,
-        "ProductDescription": "Quần Short Kaki Nam, Chất Vải Bamboo Tự Nhiên có kiểu dáng Slim fit ôm sát vừa vặn, phù hợp với mọi dáng người giúp che đi tối đa khuyết điểm trên cơ thể nam giới. Quần short kaki được thiết kế basic, dễ dàng kết hợp với nhiều kiểu áo khác nhau: áo T-shirt, áo Polo, tanktop hay  sơ mi cộc... Với mỗi cách phối kết hợp sẽ mang đến một diện mạo khác nhau như thanh lịch, tinh tế hay khỏe khoắn, cá tính. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 39
-            },
+        "name": "party dress cloak sleeve",
+        "condition": "82",
+        "category": "dresses",
+        "description": "Váy đã được mặc nhiều lần, có dấu hiệu sử dụng rõ ràng. Vải có thể bị giãn hoặc phai màu ở một số chỗ, có thể xuất hiện những vết nhăn nhiều hơn. Một số khuyết điểm nhỏ như sờn vải hoặc đường may có thể bị ảnh hưởng, nhưng vẫn còn dùng tốt.",
+        "gender": "For Women",
+        "price": 9550,
+        "countInStock": 21,
+        "sizes": [
             {
-                "SizeName": "M",
-                "Quantity": 84
+                "name": "38",
+                "count": 4
             },
             {
-                "SizeName": "L",
-                "Quantity": 18
+                "name": "40",
+                "count": 5
             },
             {
-                "SizeName": "XL",
-                "Quantity": 48
+                "name": "42",
+                "count": 5
             },
             {
-                "SizeName": "2XL",
-                "Quantity": 42
-            }
-        ]
-    },
-    {
-        "ProductID": 122,
-        "ProductName": "Áo Polo Nam, Phong Cách Thể Thao, Trẻ Trung",
-        "productPrice": 479000,
-        "ProductDescription": "Áo Polo Nam, Phong Cách Thể Thao, Trẻ Trung nổi bật với kiểu dáng Slim fit ôm vừa vặn, tôn dáng nhưng vẫn đảm bảo thoải mái khi mặc. Thiết kế phối vải khỏe khoắn kết hợp cùng đường line chạy dọc cổ áo và vai áo, mang đến phong cách thể thao, nam tính cho người mặc. Logo Perfect Life ở ngực trái của áo bền đẹp, tỉ mỉ, đảm bảo không bong tróc trong quá trình sử dụng hay giặt là. Cổ áo và tay áo được dệt bo đứng phom, thanh lịch để nam giới tự tin mặc đi học, đi làm hay đi chơi đều phù hợp. \r\n\r\nSự kết hợp của các thành phần chất liệu là Viscose, Freezing Nylon và Spandex mang tới trải nghiệm mềm mại, thoáng mát tối đa cho chiếc áo Polo. Chất vải này cũng tăng tốc độ hút ẩm, bay hơi nhanh chóng, thấm hút mồ hôi tốt, phù hợp với cả những ngày thời tiết oi nóng, cơ thể đổ nhiều mồ hôi mà không lo bí bách hay có mùi khó chịu khi mặc. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 43
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 21
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 31
+                "name": "44",
+                "count": 4
             },
             {
-                "SizeName": "XL",
-                "Quantity": 12
+                "name": "46",
+                "count": 3
             }
         ]
     },
     {
-        "ProductID": 123,
-        "ProductName": "Áo Polo Nam, Kiểu Dáng Regular Fit Thoải Mái",
-        "productPrice": 489000,
-        "ProductDescription": "Áo Polo Nam, Kiểu Dáng Regular Fit Thoải Mái suông nhẹ nhưng vẫn ôm vừa đủ, mang tới vẻ ngoài trẻ trung, lịch lãm mà vẫn thoải mái cho người mặc. Áo Polo nổi bật với hiết kế basic, cổ và tay áo cùng màu với vải chính, màu sắc trung tính, hoạt tiết dệt Jaccquard thời trrang tạo điểm nhấn sang trọng, lịch lãm cho nam giới. Đây được xem là item bán chạy nhất hiện nay.\r\n\r\nChất liệu Freezing Nylon hay còn được biết đến với tên gọi khác là thun lạnh siêu mềm, co giãn cực tốt giúp hạn chế tối đa nhăn nhàu khi mặc. Công nghệ Freezing Nylon tối ưu nhiệt, giảm ngay từ 5-7 độ khi mặc trong thời tiết oi bức của mùa hè. Ngoài ra, khi kết hợp thêm thành phần Polyester và Spandex giúp vải có những hiệu ứng melange đẹp mắt cùng với đó là những tính năng mà Polyester có thể bổ trợ cho Freezing Nylon như: Tăng độ bền vải, tăng khả năng thấm hút mồ hôi và giúp sản phẩm nhanh khô.\r\n\r\nVới bàng màu lạ mắt, vừa nhã nhặn, vừa tinh tế, chiếc áo Polo nam này xứng đáng là item \"cần có\" trong tủ đồ của các quý ông để diện trong bất kỳ hoàn cảnh nào, mang tới cho nam giới vẻ ngoài chỉn chu và thu hút. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 83
-            },
+        "name": "polka dot mesh sleeve",
+        "condition": "84",
+        "category": "dresses",
+        "description": "Váy đã được mặc nhiều lần, có dấu hiệu sử dụng rõ ràng. Vải có thể bị giãn hoặc phai màu ở một số chỗ, có thể xuất hiện những vết nhăn nhiều hơn. Một số khuyết điểm nhỏ như sờn vải hoặc đường may có thể bị ảnh hưởng, nhưng vẫn còn dùng tốt.",
+        "gender": "For Women",
+        "price": 8700,
+        "countInStock": 16,
+        "sizes": [
             {
-                "SizeName": "M",
-                "Quantity": 49
+                "name": "38",
+                "count": 2
             },
-            {
-                "SizeName": "L",
-                "Quantity": 12
-            }
-        ]
-    },
-    {
-        "ProductID": 124,
-        "ProductName": "Áo Sơ Mi Nam Dài Tay, Vải Bamboom Kháng Khuẩn Tự Nhiên",
-        "productPrice": 629000,
-        "ProductDescription": "Áo Sơ Mi Nam Dài Tay, Vải Bamboom Kháng Khuẩn Tự Nhiên sở hữu thiết kế phom Slim fit ôm nhẹ vừa vặn, tôn dáng mà vẫn thoải mái trong từng hoạt động. Thiết kế vạt lượn chỉn chu kết hợp cùng công nghệ vải không nhăn giúp nam giới tiết kiệm thời gian là ủi mà vẫn giữ được dáng vẻ thanh lịch suốt cả ngày dài.\r\n\r\nÁo sơ mi dài tay được nâng cấp từ phiên bản Bamboo sợi tre được nghiên cứu và ứng dụng với tính nắng chống nhăn tự nhiên. Việc bổ sung thêm sợi Microfiber có cấu trúc siêu mảnh, độ mịn gấp đôi so với sợi tơ. Đây là một trong những chất liệu đặc biệt an toàn, thân thiên với môi trường và làn da người dùng. \r\n\r\nKhi kết hợp Bamboo và Microfiber sẽ đem lại cảm giác mềm mại tuyệt vời, thoải mái hơn cho người mặc, khả năng kháng khuẩn cao đến 90% và chống ẩm mốc vượt trội hơn so với các chất liệu thông thường. ",
-        "Sizes": [
             {
-                "SizeName": "S",
-                "Quantity": 93
+                "name": "40",
+                "count": 5
             },
             {
-                "SizeName": "M",
-                "Quantity": 48
+                "name": "42",
+                "count": 4
             },
             {
-                "SizeName": "L",
-                "Quantity": 49
+                "name": "44",
+                "count": 3
             },
             {
-                "SizeName": "XL",
-                "Quantity": 51
+                "name": "46",
+                "count": 2
             }
         ]
     },
     {
-        "ProductID": 125,
-        "ProductName": "Áo Sơ Mi Ngắn Tay Nam, Phom Dáng Casual Fit Thoải Mái",
-        "productPrice": 609000,
-        "ProductDescription": "Áo Sơ Mi Ngắn Tay Nam, Phom Dáng Casual Fit Thoải Mái suông nhẹ, vừa vặn, đảm bảo cảm giác thoải mái trong mọi hoạt động. Thiết kế đơn giản, tà lượn, không túi cùng màu xanh phối với các đường kẻ line thời thượng. Logo Premium vừa mang tới diện mạo thanh lịch, tinh tế, cho các quý ông, vừa đảm bảo đây là mẫu thiết kế độc quyền chính hãng. Điểm nhấn của mẫu áo này nằm ở phần cổ áo với 2 cúc cài lạ mắt được thiết kế song song, vừa trẻ trung, vừa thanh lịch.\r\n\r\nÁo sơ mi Bamboo vải sợi tre đã không còn quá xa lạ, nay được cải tiến hơn với phiên bản nâng cấp thành phần chất liệu: 50% Bamboo & 50% Microfiber. Sợi Microfiber có cấu trúc siêu mảnh, độ mịn gấp đôi so với sợi tơ. Đây là một trong những chất liệu đặc biệt an toàn và thân thiện với người dùng. Sự kết hợp hoàn hảo giữa sợi tre Bamboo và sợi Microfiber sẽ đem lại cảm giác mềm mại tuyệt vời, thoải mái hơn cho người mặc, khả năng kháng khuẩn cao đến 90% và chống ẩm mốc vượt trội hơn chất liệu thông thường.",
-        "Sizes": [
+        "name": "printed flower dress",
+        "condition": "92",
+        "category": "dresses",
+        "description": "Váy đã được mặc vài lần nhưng vẫn còn trong tình trạng tốt. Vải có thể hơi giãn hoặc nhăn ở một vài chỗ, nhưng màu sắc và họa tiết vẫn còn sắc nét. Có thể có những dấu hiệu nhỏ của việc giặt nhưng không ảnh hưởng đến thẩm mỹ.",
+        "gender": "For Women",
+        "price": 10800,
+        "countInStock": 12,
+        "sizes": [
             {
-                "SizeName": "S",
-                "Quantity": 59
+                "name": "38",
+                "count": 2
             },
             {
-                "SizeName": "M",
-                "Quantity": 84
+                "name": "40",
+                "count": 4
             },
             {
-                "SizeName": "L",
-                "Quantity": 42
+                "name": "42",
+                "count": 3
             },
             {
-                "SizeName": "XL",
-                "Quantity": 85
-            }
-        ]
-    },
-    {
-        "ProductID": 126,
-        "ProductName": "Áo Sơ Mi Ngắn Tay Nam, Vải Bamboo, Thoáng Khí",
-        "productPrice": 619000,
-        "ProductDescription": "Áo Sơ Mi Nam Ngắn Tay, Vải Bamboo, Thoáng Khí có kiểu dáng Slim fit ôm vừa vặn, tôn dáng mà vẫn đảm bảo cảm giác thoải mái khi mặc. Áo sơ mi được thiết kế basic, dễ mặc, dễ phối, phù hợp với nhiều hoàn cảnh, sự kiện khác nhau. Họa tiết kẻ caro xanh phối trắng trẻ trung, nam tính mà vẫn đảm bảo dáng vẻ thanh lịch, sang trọng cho các quý ông.\r\n\r\nChất vải Bamboo là loại sợi tổng hợp được tạo nên bởi cellulose tách từ cây tre. Vải bamboo có đặc tính thoáng khí mát mẻ, chống tia cực tím, kháng khuẩn, khử mùi tốt và vô cùng thân thiện với môi trường bởi được tạo bởi chất liệu tre không sử dụng hóa chất, an toàn cho người sử dụng. Bổ sung tỉ lệ Microfiber và Spandex mang lại ưu điểm: Giảm độ nhăn, tăng độ bền của vải, màu sắc bắt mắt hơn cho chiếc áo sơ mi.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 58
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 34
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 83
+                "name": "44",
+                "count": 2
             },
             {
-                "SizeName": "XL",
-                "Quantity": 49
+                "name": "46",
+                "count": 1
             }
         ]
     },
     {
-        "ProductID": 127,
-        "ProductName": "Áo Sơ Mi Ngắn Tay Nam, Vải Bamboo, Kháng Khuẩn",
-        "productPrice": 619000,
-        "ProductDescription": "Sơ Mi Cộc Tay Nam, Vải Bamboo, Kháng Khuẩn, Thoáng Mát nổi bật với kiểu dáng Slim fit ôm sát vừa vặn mà không gây cảm giác gò bó khi mặc. Thiết kế basic, cổ áo đứng phom với họa tiết kẻ caro xanh biển tươi mát, trẻ trung, là item không thể thiếu trong tủ đồ của nam giới trong mùa hè này. \r\n\r\nÁo sơ mi được làm từ chất liệu Bamboo được dệt từ 100% sợi tre nhự nhiên, vô cùng mềm mại, chống nhăn nhau, lành tính với làn da, đem tới cảm giác thoải mái, mềm mát khi mặc. Đặc biệt, việc bổ sung thêm thành phần Mirofiber - một loại sợi gốc Polyester/Polyamide với tỉ lệ 80/20 có kích thước nhỏ cỡ micro mét tạo cảm giác mềm mịn thoải mái. Do các sợi nhỏ cỡ micro nên mật độ sợi dày hơn giúp vải thành phẩm bền và ổn định hơn, giảm độ co rút và giảm nhăn đáng kể.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 58
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 34
-            },
+        "name": "slim sexy white gown",
+        "condition": "83",
+        "category": "dresses",
+        "description": "Váy đã được mặc nhiều lần, có dấu hiệu sử dụng rõ ràng. Vải có thể bị giãn hoặc phai màu ở một số chỗ, có thể xuất hiện những vết nhăn nhiều hơn. Một số khuyết điểm nhỏ như sờn vải hoặc đường may có thể bị ảnh hưởng, nhưng vẫn còn dùng tốt.",
+        "gender": "For Women",
+        "price": 13999,
+        "countInStock": 19,
+        "sizes": [
             {
-                "SizeName": "L",
-                "Quantity": 83
+                "name": "38",
+                "count": 4
             },
-            {
-                "SizeName": "XL",
-                "Quantity": 49
-            }
-        ]
-    },
-    {
-        "ProductID": 128,
-        "ProductName": "Họa Tiết Trắng Kẻ Xanh Biển",
-        "productPrice": 509000,
-        "ProductDescription": "Áo Sơ Mi Nam Cộc Tay, Họa Tiết Trắng Kẻ Xanh Biển là thiết kế mới nhất trong bộ sưu tập Công sở Xuân Hè của 5S Fashion với kiểu dáng Slim fit vừa vặn, tôn dáng. Thiết kế đơn giản, vạt lượn, không túi cùng cổ áo đứng lịch sự. Màu sắc trắng kẻ xanh biển lịch lãm, thời thượng tạo nên dấu ấn thanh lịch, nam tính cho quý ông.\r\n\r\nÁo sơ mi được làm từ chất liệu Bamboo được dệt từ các sợi Cenlulose đến từ cây Tre tự nhiên sở hữu những ưu điểm vượt trội như kháng khuẩn, thấm hút mồ hôi tốt, chống tia UV và ngăn ngừa sự xuất hiện của vi khuẩn, nấm mốc trên quần áo, mềm mại nên rất an toàn với làn da người mặc. Vệc kết hợp thêm với Mirofiber - một loại sợi gốc Polyester/Polyamide với tỉ lệ 80/20 có kích thước nhỏ cỡ micro mét tạo cảm giác mềm mịn thoải mái. Do các sợi nhỏ cỡ micro nên mật độ sợi dày hơn giúp vải thành phẩm bền và ổn định hơn, giảm độ co rút và giảm nhăn đáng kể.",
-        "Sizes": [
             {
-                "SizeName": "S",
-                "Quantity": 51
+                "name": "40",
+                "count": 4
             },
             {
-                "SizeName": "M",
-                "Quantity": 47
+                "name": "42",
+                "count": 4
             },
             {
-                "SizeName": "L",
-                "Quantity": 84
+                "name": "44",
+                "count": 4
             },
             {
-                "SizeName": "XL",
-                "Quantity": 49
+                "name": "46",
+                "count": 3
             }
         ]
     },
     {
-        "ProductID": 129,
-        "ProductName": "Áo Sơ Mi Nam Ngắn Tay, Vải Bamboo, Chống Tia Cực Tím",
-        "productPrice": 519000,
-        "ProductDescription": "Áo Sơ Mi Nam Ngắn Tay, Vải Bamboo, Chống Tia Cực Tím có kiểu dáng Slim fit vừa vặn, tôn dáng mà vẫn đảm bảo cảm giác thoải mái trong mọi hoạt động. Áo được thiết kế basic với tà lượn, không túi cùng cổ áo đứng phom lịch sự. Điểm nhấn nằm ở họa tiết trắng kẻ xanh lịch lãm, thời thượng, mang đến diện mạo sang trọng và nam tính cho các quý ông. \r\n\r\nÁo được làm từ chất vải Bamboo sở hữu hàng loạt các ưu điểm như thấm hút tốt hơn sợi Cotton tới 60%, mềm mượt nhưng vẫn giữ được phom dáng, chống nhăn hiệu quả, kháng khuẩn tự nhiên, khử mùi, chống tia UV và tăng cường khả năng bảo vệ da. Có thể nói đây là chiếc áo sơ mi giúp giải quyết nỗi lo về sự gò bò, tạo cảm giác thoải mái mà vẫn đảm bảo vẻ ngoài chỉn chu, lịch sự cho các quý ông. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 48
-            },
+        "name": "long sleeve wide leg jumpsuit",
+        "condition": "86",
+        "category": "dresses",
+        "description": "Váy đã qua một số lần sử dụng rõ rệt. Vải có thể bắt đầu có dấu hiệu giãn nhẹ ở những vùng sử dụng nhiều. Có thể có một số vết nhăn hoặc dấu hiệu phai màu nhẹ, nhưng tổng thể vẫn còn tốt và chấp nhận được.",
+        "gender": "For Women",
+        "price": 10500,
+        "countInStock": 9,
+        "sizes": [
             {
-                "SizeName": "M",
-                "Quantity": 43
+                "name": "38",
+                "count": 0
             },
-            {
-                "SizeName": "L",
-                "Quantity": 81
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 83
-            }
-        ]
-    },
-    {
-        "ProductID": 130,
-        "ProductName": "Áo Sơ Mi Nam Ngắn Tay, Vải Bamboo, Kháng Khuẩn",
-        "productPrice": 579000,
-        "ProductDescription": "Áo Sơ Mi Ngắn Tay Nam, Vải Bamboo, Kháng khuẩn, Khử Mùi sở hữu kiểu dáng Slim fit ôm vừa vặn, tôn dáng, đảm bảo cảm giác thoải mái, dễ dàng trong mọi hoạt động. Với thiết kế chỉn chu đến từng chi tiết như cổ áo đứng phom, tà lượn, không túi tạo cảm giác thoải mái, phù hợp với nhiều sự kiện và hoàn cảnh. Điểm nhấn của áo sơ mi nằm ở họa tiết chấm in trên nền vải trắng tạo hiệu ứng nổi bật, mang đến phong cách thời trang lịch lãm, thời thượng cho các quý ông. Đây là item áo sơ mi họa tiết luôn nằm trong top bán chạy của 5S Fashion.\r\n\r\nChất liệu Bamboo được dệt từ các sợi Tre tự nhiên sở hữu hàng loạt những ưu điểm như thoáng khí mát mẻ, chống tia cực tím, kháng khuẩn, khử mùi tốt và vô cùng thân thiện với môi trường... Việc kết hợp với Mirofiber - một loại sợi gốc Polyester/Polyamide với tỉ lệ 80/20 có kích thước nhỏ cỡ micro mét tạo cảm giác mềm mịn thoải mái. Do các sợi nhỏ cỡ micro nên mật độ sợi dày hơn giúp vải thành phẩm bền và ổn định hơn, giảm độ co rút và giảm nhăn đáng kể.",
-        "Sizes": [
             {
-                "SizeName": "S",
-                "Quantity": 41
+                "name": "40",
+                "count": 2
             },
             {
-                "SizeName": "M",
-                "Quantity": 43
+                "name": "42",
+                "count": 2
             },
             {
-                "SizeName": "L",
-                "Quantity": 85
+                "name": "44",
+                "count": 2
             },
             {
-                "SizeName": "XL",
-                "Quantity": 83
+                "name": "46",
+                "count": 3
             }
         ]
     },
     {
-        "ProductID": 134,
-        "ProductName": "Áo Sơ Mi Cộc Tay, Vải Bamboo Kháng Khuẩn, Không Nhăn",
-        "productPrice": 559000,
-        "ProductDescription": "Áo Sơ Mi Cộc Tay, Vải Bamboo Kháng Khuẩn, Không Nhăn được thiết kế theo form dáng Slim fit với kiểu dáng ôm vừa vặn, tôn dáng mà vẫn đảm bảo trải nghiệm thoải mái khi vận động. Điểm nhấn của mẫu áo này nằm ở họa tiết kẻ sọc trắng xanh trẻ trung, thanh lịch, phù hợp với các quý ông công sở. Bên cạnh đó, item áo sơ mi cộc tay này cũng không quá kén dáng khi có thể phối được với hầu hết các trang phuc có trong tủ đồ của bạn nam.\r\n\r\nÁo được làm từ chất liệu Tre tự nhiên với các ưu điểm như thoáng khí mát mẻ, chống tia cực tím, kháng khuẩn, khử mùi tốt và đặc biệt thân thiên với môi trường khi được tạo nên từ các sợi Cellulose tách từ cây tre tự, không dùng hóa chất nên an toàn với cả làn da người mặc. Khi kết hợp với Mirofiber - một loại sợi gốc Polyester/Polyamide với tỉ lệ 80/20 có kích thước nhỏ cỡ micro mét tạo cảm giác mềm mịn thoải mái. Do các sợi nhỏ cỡ micro nên mật độ sợi dày hơn giúp vải thành phẩm bền và ổn định hơn, giảm độ co rút và giảm nhăn đáng kể.",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 14
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 43
-            },
+        "name": "slim patterned party gown",
+        "condition": "95",
+        "category": "dresses",
+        "description": "Váy đã được mặc rất ít lần, trông gần như mới. Vải vẫn còn nguyên vẹn, không có dấu hiệu giãn, nhão hay phai màu. Một số nếp nhăn nhẹ có thể xuất hiện nhưng không đáng kể.",
+        "gender": "For Women",
+        "price": 14000,
+        "countInStock": 12,
+        "sizes": [
             {
-                "SizeName": "L",
-                "Quantity": 21
+                "name": "38",
+                "count": 2
             },
-            {
-                "SizeName": "XL",
-                "Quantity": 30
-            }
-        ]
-    },
-    {
-        "ProductID": 135,
-        "ProductName": "Áo Sơ Mi Nam Ngắn Tay, Vải Modal, Thoáng Khí, Chống Nhăn",
-        "productPrice": 569000,
-        "ProductDescription": "Áo Sơ Mi Nam Ngắn Tay, Vải Modal, Thoáng Khí, Chống Nhăn là mẫu áo sở hữu kiểu áo Casual fit thoải mái, dễ mặc, phù hợp với mọi dáng người và mọi độ tuổi. Áo được thiết kế basic với tà bằng trẻ trung mà không kém phần chỉn chu, thanh lịch. \r\n\r\nÁo được làm từ chất liệu Microfiber với cấu trúc sợi siêu mảnh, độ mịn gấp đôi so với sợi tơi, là một trong những chất vải an toàn, thân thiện với môi trường và làn da người mặc. Trong khi đó, Modal là loại vải có nguồn gốc từ gỗ của cây sồi, an toàn với người sử dụng và thân thiện với môi trường. Chất liệu vải Modal có đặc tính mềm mịn, chống nhăn, đàn hồi tốt và hút ẩm cao hơn cotton đến 48%. Kết hợp Modal với Mirofiber giúp vải thành phẩm bền và ổn định hơn, giảm độ co rút và giảm nhăn đáng kể.\r\n\r\nThêm vào đó, sự góp mặt của Cotton giúp vải thành phẩm có giá tối ưu hơn mà vẫn giữ được các tính năng thấm hút, thoáng mát của vải & tạo hiệu ứng bề mặt khô hơn giống như những chiếc sơ mi Cotton phong cách casual nhưng vẫn giữ được độ sang trọng cao cấp của vải Modal. ",
-        "Sizes": [
             {
-                "SizeName": "S",
-                "Quantity": 43
+                "name": "40",
+                "count": 4
             },
             {
-                "SizeName": "M",
-                "Quantity": 31
+                "name": "42",
+                "count": 3
             },
             {
-                "SizeName": "L",
-                "Quantity": 51
+                "name": "44",
+                "count": 2
             },
             {
-                "SizeName": "XL",
-                "Quantity": 49
+                "name": "46",
+                "count": 1
             }
         ]
     },
     {
-        "ProductID": 136,
-        "ProductName": "Áo Sơ Mi Cộc Tay Nam, Vải Bamboo Kháng Khuẩn",
-        "productPrice": 609000,
-        "ProductDescription": "Áo Sơ Mi Cộc Tay Nam, Vải Bamboo Kháng Khuẩn nổi bật với kiểu dáng Slim fit ôm vừa vặn, tôn dáng mà vẫn thoải mái trong mọi hoạt động. Sự kết hợp giữa các đường kẻ tạo nên thiết kế áo sơ mi vừa lịch lãm, vừa trẻ trung, nam tính. Áo sơ mi có tone màu xanh blue tươi mát trên nền chất liệu Bamboo mềm mại, thoáng khí mang tới trải nghiệm thoải mái tối đa cho quý ông công sở.\r\n\r\nÁo được làm từ chất liệu Bamboo tự nhiên - một loại sợi tổng hợp được tạo nên bởi cellulose tách từ cây tre. Vải bamboo có đặc tính thoáng khí mát mẻ, chống tia cực tím, kháng khuẩn, khử mùi tốt và vô cùng thân thiện với môi trường bởi được tạo bởi chất liệu tre không sử dụng hóa chất, an toàn cho người sử dụng. Loại vải này rất mềm và mướt nên có thể giảm thiểu độ ma sát với làn da, không gây kích ứng và phù hợp với làn da nhạy cảm.\r\n\r\nKết hợp với Mirofiber - một loại sợi gốc Polyester/Polyamide với tỉ lệ 80/20 có kích thước nhỏ cỡ micro mét tạo cảm giác mềm mịn thoải mái. Do các sợi nhỏ cỡ micro nên mật độ sợi dày hơn giúp vải thành phẩm bền và ổn định hơn, giảm độ co rút và giảm nhăn đáng kể. Bổ sung thêm thành phần Spandex giúp cho áo có độ co giãn nhẹ để người mặc thoải mái hơn trong mọi hoạt động. ",
-        "Sizes": [
+        "name": "mens casual short sleeve",
+        "condition": "94",
+        "category": "shirts",
+        "description": "Áo đã được mặc vài lần nhưng còn giữ tình trạng tốt. Vải có thể hơi mềm hoặc giãn ở một số khu vực. Màu sắc vẫn còn rõ nét, chỉ có những dấu hiệu nhỏ của việc giặt hoặc sử dụng.",
+        "gender": "For Men",
+        "price": 7500,
+        "countInStock": 9,
+        "sizes": [
             {
-                "SizeName": "S",
-                "Quantity": 43
+                "name": "L",
+                "count": 0
             },
             {
-                "SizeName": "M",
-                "Quantity": 31
+                "name": "XL",
+                "count": 3
             },
             {
-                "SizeName": "L",
-                "Quantity": 51
+                "name": "2XL",
+                "count": 4
             },
             {
-                "SizeName": "XL",
-                "Quantity": 49
+                "name": "3XL",
+                "count": 2
             }
         ]
     },
     {
-        "ProductID": 138,
-        "ProductName": "Áo Sơ Mi Cộc Tay Nam, Vải Bamboo Kháng Khuẩn",
-        "productPrice": 539000,
-        "ProductDescription": "Áo Sơ Mi Cộc Tay Nam, Vải Modal, Mềm Mịn, Co Giãn, Thoáng Mát là mẫu áo sở hữu kiểu dáng Slim fit tôn dáng, dễ mặc cùng màu trắng basic chưa bao giờ lỗi mốt. Với form áo hơi ôm, vạt bằng thoải mái, áo mang tới diện mạo thanh lịch, khỏe khoắn mà không kém phần trẻ trung cho nam giới, phù hợp với mọi dáng người và mọi độ tuổi. Đây là item mà các chàng trai công sở nhất định phải sở hữu ít nhất một chiếc trong tủ đồ của mình. \r\n\r\nVới thành phần 100% Cotton được dệt từ các sợi bông tự nhiên, sờ vào mịn tay, thoáng mát, thấm hút mồ hôi tốt nên đặc biệt phù hợp với thời tiết mùa hè oi bức, giúp nam giới tự tin suốt cả ngày dài. Chất liệu thiên nhiên nên mẫu áo này rất an toàn với người sử dụng và thân thiện với môi trường. ",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 43
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 31
-            },
+        "name": "vintage casual shirt",
+        "condition": "97",
+        "category": "shirts",
+        "description": "Áo đã được mặc rất ít lần, trông gần như mới. Vải vẫn còn giữ được độ cứng, không bị giãn hoặc sờn. Có thể có vài nếp nhăn nhỏ nhưng không đáng chú ý.",
+        "gender": "Unisex",
+        "price": 6500,
+        "countInStock": 16,
+        "sizes": [
             {
-                "SizeName": "L",
-                "Quantity": 51
+                "name": "M",
+                "count": 2
             },
             {
-                "SizeName": "XL",
-                "Quantity": 49
-            }
-        ]
-    },
-    {
-        "ProductID": 139,
-        "ProductName": "Áo Sơ Mi Ngắn Tay Nam, Chống Nhăn, Kháng Khuẩn",
-        "productPrice": 479000,
-        "ProductDescription": "Áo Sơ Mi Ngắn Tay Nam, Chống Nhăn, Kháng Khuẩn với kiểu dáng Slimfit ôm nhẹ, vừa vặn mà vẫn đảm bảo cảm giác thoải mái khi vận động. Áo được thiết kế basic với tà bằng không túi, tone màu trắng đơn giản nhưng tinh tế, ấn tượng mang đến phong thái chuyên nghiệp, nam tính và lịch lãm cho các quý ông. \r\n\r\nChất vải 50% Bamboo + 50% Polyester có đặc tính thoáng khí mát mẻ, kháng khuẩn, khử mùi cực tốt nên rất thích hợp mặc trong những ngày hè oi nóng. Sợi Polyester có kích thước siêu nhỏ tạo cảm giác mềm mịn, đồng thời, giúp áo sơ mi bền đẹp, giảm co rút và chống nhăn hiệu quả",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 81
+                "name": "L",
+                "count": 3
             },
             {
-                "SizeName": "M",
-                "Quantity": 31
+                "name": "XL",
+                "count": 4
             },
             {
-                "SizeName": "L",
-                "Quantity": 28
+                "name": "2XL",
+                "count": 4
             },
             {
-                "SizeName": "XL",
-                "Quantity": 48
+                "name": "3XL",
+                "count": 3
             }
         ]
     },
     {
-        "ProductID": 140,
-        "ProductName": "Quần Lót Nam, Kháng Khuẩn Hiệu Quả",
-        "productPrice": 96000,
-        "ProductDescription": "Quần Lót Nam, Kháng Khuẩn Hiệu Quả là thiết kế quần sịp nam brief thông hơi với hàng ngàn lỗ thoáng khí cực kỳ thoải mái. Quần sở hữu lớp kháng khuẩn giúp bảo vệ da một cách tối ưu, chống ẩm và hạn chế nấm mốc cực tốt, an toàn với làn da vùng nhạy cảm. Chất liệu Coolmax sở hữu độ dẻo dai, mềm mại và co giãn bền bỉ cho mọi kích cỡ, từ đó giúp nam giới tự tin trong các hoạt động hằng ngày. \r\n\r\n",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 40
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 40
-            },
+        "name": "crease-resistant regular-fit black shirt",
+        "condition": "99",
+        "category": "shirts",
+        "description": "Áo sơ mi còn rất mới, chưa được mặc hoặc chỉ rất ít lần. Vải vẫn còn sắc sảo, không có nếp nhăn hay dấu hiệu giặt. Màu sắc tươi mới, không có bất kỳ vết bẩn hay sờn rách nào.",
+        "gender": "For Men",
+        "price": 4500,
+        "countInStock": 12,
+        "sizes": [
             {
-                "SizeName": "L",
-                "Quantity": 40
+                "name": "M",
+                "count": 2
             },
-            {
-                "SizeName": "XL",
-                "Quantity": 20
-            }
-        ]
-    },
-    {
-        "ProductID": 141,
-        "ProductName": "Quần Lót Nam, Kháng Khuẩn Hiệu Quả",
-        "productPrice": 96000,
-        "ProductDescription": "Quần Lót Nam, Kháng Khuẩn Hiệu Quả là thiết kế quần sịp nam brief thông hơi với hàng ngàn lỗ thoáng khí cực kỳ thoải mái. Quần sở hữu lớp kháng khuẩn giúp bảo vệ da một cách tối ưu, chống ẩm và hạn chế nấm mốc cực tốt, an toàn với làn da vùng nhạy cảm. Chất liệu Coolmax sở hữu độ dẻo dai, mềm mại và co giãn bền bỉ cho mọi kích cỡ, từ đó giúp nam giới tự tin trong các hoạt động hằng ngày. \r\n\r\n",
-        "Sizes": [
             {
-                "SizeName": "S",
-                "Quantity": 50
+                "name": "L",
+                "count": 2
             },
             {
-                "SizeName": "M",
-                "Quantity": 50
+                "name": "XL",
+                "count": 3
             },
             {
-                "SizeName": "L",
-                "Quantity": 50
+                "name": "2XL",
+                "count": 2
             },
             {
-                "SizeName": "XL",
-                "Quantity": 50
+                "name": "3XL",
+                "count": 3
             }
         ]
     },
     {
-        "ProductID": 142,
-        "ProductName": "Quần Lót Nam, Kháng Khuẩn Hiệu Quả ",
-        "productPrice": 96000,
-        "ProductDescription": "Quần Lót Nam, Kháng Khuẩn Hiệu Quả là mẫu quần sịp nam dáng boxer ôm sát vừa vặn với cơ thể, nâng đỡ tốt cho vùng nhạy cảm, tạo cảm giác thoáng mát và thoải mái tối đa khi mặc. Quần được thiết kế cạp chun dệt logo với độ co giãn tốt, không gây lằn bụng. \r\n\r\nQuần sịp đùi nam nổi bật với chất liệu thun lạnh Coolmax sở hữu độ dẻo dai, mềm mại và co giãn bền bỉ cho mọi kích cỡ được kết hợp cùng thiết kế với hàng ngàn lỗ thoáng khí giúp phái mạnh tự tin trong mọi hoạt động hằng ngày. \r\n",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 50
-            },
+        "name": "regular-fit stretch cotton white shirt",
+        "condition": "84",
+        "category": "shirts",
+        "description": "Áo đã được mặc nhiều lần, có dấu hiệu hao mòn rõ ràng. Vải có thể bị giãn hoặc sờn ở một số khu vực. Màu sắc có thể phai rõ rệt, và có thể có những vết nhăn hoặc sờn không thể khắc phục hoàn toàn.",
+        "gender": "For Men",
+        "price": 5500,
+        "countInStock": 12,
+        "sizes": [
             {
-                "SizeName": "M",
-                "Quantity": 50
+                "name": "M",
+                "count": 2
             },
             {
-                "SizeName": "L",
-                "Quantity": 50
+                "name": "L",
+                "count": 2
             },
             {
-                "SizeName": "XL",
-                "Quantity": 50
-            }
-        ]
-    },
-    {
-        "ProductID": 146,
-        "ProductName": "Quần lót nam Modal Air  dáng Trunk",
-        "productPrice": 96000,
-        "ProductDescription": "Quần lót nam Modal Air được ra mắt trong BST đồ lót Micro Modal Air lần đầu tiên và duy nhất có tại Việt Nam.\r\n\r\nVới sự kết hợp giữa 92% Micro modal air + 8% spandex tạo nên dòng sản phẩm ưu việt.\r\n\r\nChất liệu Modal vốn là chất liệu có nguồn gốc từ gỗ sồi, nhưng qua nghiên cứu và dệt sợi trên quy trình hiện đại đã tạo nên những thước vải mang tính ưu việt: thân thiện với làn da, không gây kích ứng, có đặc tính kháng khuẩn tự nhiên, thông hơi, thoáng khí, thoải mái suốt ngày dài",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 50
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 50
+                "name": "XL",
+                "count": 3
             },
             {
-                "SizeName": "L",
-                "Quantity": 50
+                "name": "2XL",
+                "count": 2
             },
             {
-                "SizeName": "XL",
-                "Quantity": 50
+                "name": "3XL",
+                "count": 3
             }
         ]
     },
     {
-        "ProductID": 147,
-        "ProductName": "Quấn lót nam MICROFIBER STRUCTURE EASY FIT dáng Trunk",
-        "productPrice": 96000,
-        "ProductDescription": "Quấn lót nam MICROFIBER STRUCTURE EASY FIT dáng Trunk được ra mắt trong BST đồ lót Micro Modal Air lần đầu tiên và duy nhất có tại Việt Nam.\r\n\r\nVới sự kết hợp giữa 92% Micro modal air + 8% spandex tạo nên dòng sản phẩm ưu việt.\r\n\r\nChất liệu Modal vốn là chất liệu có nguồn gốc từ gỗ sồi, nhưng qua nghiên cứu và dệt sợi trên quy trình hiện đại đã tạo nên những thước vải mang tính ưu việt: thân thiện với làn da, không gây kích ứng, có đặc tính kháng khuẩn tự nhiên, thông hơi, thoáng khí, thoải mái suốt ngày dài",
-        "Sizes": [
-            {
-                "SizeName": "S",
-                "Quantity": 50
-            },
-            {
-                "SizeName": "M",
-                "Quantity": 50
-            },
+        "name": "regular-fit cotton chambray blue shirt",
+        "condition": "83",
+        "category": "shirts",
+        "description": "Áo đã được mặc nhiều lần, có dấu hiệu hao mòn rõ ràng. Vải có thể bị giãn hoặc sờn ở một số khu vực. Màu sắc có thể phai rõ rệt, và có thể có những vết nhăn hoặc sờn không thể khắc phục hoàn toàn.",
+        "gender": "For Men",
+        "price": 9900,
+        "countInStock": 12,
+        "sizes": [
             {
-                "SizeName": "L",
-                "Quantity": 50
+                "name": "M",
+                "count": 2
             },
-            {
-                "SizeName": "XL",
-                "Quantity": 50
-            }
-        ]
-    },
-    {
-        "ProductID": 148,
-        "ProductName": "Quần lót nam VISCOSE EXTRA SOFT dáng Trunk",
-        "productPrice": 96000,
-        "ProductDescription": "Quần lót nam VISCOSE EXTRA SOFT dáng Trunkđược ra mắt trong BST đồ lót Micro Modal Air lần đầu tiên và duy nhất có tại Việt Nam.\r\n\r\nVới sự kết hợp giữa 92% Micro modal air + 8% spandex tạo nên dòng sản phẩm ưu việt.\r\n\r\nChất liệu Modal vốn là chất liệu có nguồn gốc từ gỗ sồi, nhưng qua nghiên cứu và dệt sợi trên quy trình hiện đại đã tạo nên những thước vải mang tính ưu việt: thân thiện với làn da, không gây kích ứng, có đặc tính kháng khuẩn tự nhiên, thông hơi, thoáng khí, thoải mái suốt ngày dài",
-        "Sizes": [
             {
-                "SizeName": "S",
-                "Quantity": 50
+                "name": "L",
+                "count": 2
             },
             {
-                "SizeName": "M",
-                "Quantity": 50
+                "name": "XL",
+                "count": 3
             },
             {
-                "SizeName": "L",
-                "Quantity": 50
+                "name": "2XL",
+                "count": 2
             },
             {
-                "SizeName": "XL",
-                "Quantity": 50
+                "name": "3XL",
+                "count": 3
             }
         ]
     },
     {
-        "ProductID": 149,
-        "ProductName": "Áo Thun Nam Ngắn Tay, Thiết Kế In Chuyển Màu Trẻ Trung",
-        "productPrice": 329000,
-        "ProductDescription": "Áo Thun Nam Ngắn Tay, Thiết Kế In Chuyển Màu Trẻ Trung là item trẻ trung, mới mẻ mà các anh chắc chắn cần có trong tủ đồ của mùa hè. Kiểu dáng Slim fit vừa vặn, tôn dáng mà không quá ôm sát tạo cảm giác gò bó với người mặc. Cổ áo được dệt bo bền đẹp, giữ phom tốt. Điểm nhấn của thiết kế này nằm ở màu in loang chuyển màu độc đáo, hút mắt với bảng màu đa dạng. \r\n\r\nChất vải Cotton USA được biết đến là loại vải có cấu trúc sợi dai và dài vượt trội. Chất liệu này đã hoàn thiện được những ưu điểm có sẵn của cotton truyền thống. Độ thấm hút cao, chịu nhiệt tốt, giữ màu sắc bền đẹp; đồng thời khắc phục hầu hết nhược điểm cũ như: co rút, dễ nhăn, xù, bạc màu. Kết hợp với Spandex giúp sản phẩm có độ đàn hồi tốt, người mặc sẽ thoải mái vận động. Vải thành phẩm được xử lý qua công nghệ Wash giúp bề mặt mềm hơn, độ cầm màu tốt hơn & giảm độ co rút.",
-        "Sizes": [
+        "name": "jordan flight heritage parka",
+        "condition": "88",
+        "category": "jackets and hoodies",
+        "description": "Áo đã qua nhiều lần mặc, với vải bắt đầu giãn hoặc sờn ở cổ, tay áo, hoặc đáy áo. Màu sắc có thể phai nhẹ hoặc nhạt hơn, và vải có thể nhăn nhiều hơn. Dây kéo hoặc mũ có thể hơi lỏng nhưng vẫn còn dùng được.",
+        "gender": "Unisex",
+        "price": 43999,
+        "countInStock": 14,
+        "sizes": [
             {
-                "SizeName": "S",
-                "Quantity": 29
+                "name": "M",
+                "count": 2
             },
-            {
-                "SizeName": "M",
-                "Quantity": 94
-            },
-            {
-                "SizeName": "L",
-                "Quantity": 45
-            },
-            {
-                "SizeName": "XL",
-                "Quantity": 43
-            }
-        ]
-    },
-    {
-        "ProductID": 150,
-        "ProductName": "Áo Thun Nam, Chất Vải Freezing Nylon Thoáng Mát",
-        "productPrice": 259000,
-        "ProductDescription": "Áo Thun Nam, Chất Vải Freezing Nylon Thoáng Mát là sản phẩm được ứng dụng công nghệ mới đột phá với chất liệu Thun Lạnh siêu nhẹ, mang đến trải nghiệm thoáng mát tối đa cho người mặc. Bền mặt vải mượt hơn, co giãn tốt hơn với hàng ngàn lỗ thoáng khí, thông hơi và thấm hút mồ hôi cực tốt khi mặc. Áo giúp chống bám bụi, chống nhăn hiêu quả giúp chàng trai tiết kiệm được tối đa thời gian là ủi.\r\n\r\nBảng màu áo thun chủ yếu hướng tối các tone màu trung tính, cơ bản, dễ mặc và dễ phối. Công nghệ làm mát đột phá giúp áo thun tăng độ thoáng khí, thoát nhiệt nhanh và giảm ngay từ 5 - 7 độ C khi mặc. Đây là một trong những item mang phong cách thể thao, khỏe khoắn của 5S Fashion không thể thiếu trong tủ đồ hằng ngày, đi chơi, đi tập hay picnic của các chàng trai. ",
-        "Sizes": [
             {
-                "SizeName": "S",
-                "Quantity": 94
+                "name": "L",
+                "count": 3
             },
             {
-                "SizeName": "M",
-                "Quantity": 49
+                "name": "XL",
+                "count": 3
             },
             {
-                "SizeName": "L",
-                "Quantity": 43
+                "name": "2XL",
+                "count": 3
             },
             {
-                "SizeName": "XL",
-                "Quantity": 33
+                "name": "3XL",
+                "count": 3
             }
         ]
     },
     {
-        "ProductID": 151,
-        "ProductName": "Áo Thun Nam Ngắn Tay Cổ Tròn, In Chữ Ardent",
-        "productPrice": 259000,
-        "ProductDescription": "Áo Thun Nam Cổ Tròn, In Chữ Ardent là thiết kế đơn giản, thoải mái với tính ứng dụng cao. Áo thun có form dáng Slim fit vừa vặn, tôn dáng nhưng không hề gây cảm giác khó chịu hay bó sát khi mặc. Điểm nhấn của mẫu áo thun này nằm ở logo chữ Ardent được in ép nhiệt silicon mỏng với công nghệ High tech sắc nét, đảm bảo không bong tróc, phai mờ trong quá trình sử dụng hay giặt là. \r\n\r\nChất liệu Viscose (hay sợi lụa nhân tạo) là loại sợi tổng hợp từ chất xơ của sợi cellulose làm từ bột gỗ như cây sồi, thông, bạch đàn, cây tre… sở hữu hầu hết những đặc tính vượt trội của các chất liệu khác như lụa, cotton hay vải linen,… Vải Viscose khá mềm mịn, bóng mượt, thoáng khí, khả năng thấm hút mồ hôi và kháng khuẩn tốt. Với đặc tính dễ dàng nhuộm màu nên mẫu áo Polo này có màu sắc đa dạng, bắt mắt để bạn nam có thể thỏa sức lựa chọn.\r\n\r\nĐặc biệt, việc bổ sung thêm thành phần chất liệu Cotton còn giúp tăng  khả năng thoáng khí và thâm hút mồ hôi tăng lên vượt trội, đồng thời cũng khắc phục được những hạn chế của sợi cotton truyền thống. Thành phầm Spandex giúp sản phẩm có độ đàn hồi tốt, giảm độ co rút và người mặc sẽ thoải mái vận động. \r\n\r\nÁo được thiết kế tỉ mỉ đến từng chi tiết: cổ tròn bọc dây dệt giữ phom, mác ép nhiệt cao cấp không gây vướng ngứa khi mặc... Đây là item dễ phối đồ mà mọi chàng trai đều nên sở hữu ít nhất một chiếc trong tủ đồ mùa hè của mình. ",
-        "Sizes": [
+        "name": "fleece essential",
+        "condition": "90",
+        "category": "jackets and hoodies",
+        "description": "Áo đã qua vài lần sử dụng nhưng vẫn trong tình trạng tốt. Vải có thể hơi mềm hoặc giãn nhẹ ở một số khu vực, nhưng vẫn giữ được hình dáng ban đầu. Màu sắc có thể nhạt đi một chút, nhưng không ảnh hưởng nhiều. Dây kéo và mũ vẫn sử dụng tốt.",
+        "gender": "For Women",
+        "price": 32000,
+        "countInStock": 7,
+        "sizes": [
             {
-                "SizeName": "S",
-                "Quantity": 94
+                "name": "M",
+                "count": 1
             },
             {
-                "SizeName": "M",
-                "Quantity": 49
+                "name": "L",
+                "count": 2
             },
             {
-                "SizeName": "L",
-                "Quantity": 43
+                "name": "XL",
+                "count": 2
             },
             {
-                "SizeName": "XL",
-                "Quantity": 39
+                "name": "2XL",
+                "count": 2
             }
         ]
     },
     {
-        "ProductID": 152,
-        "ProductName": "Áo Thun Nam Ngắn Tay, Thoáng Mát, Chống Nhăn",
-        "productPrice": 259000,
-        "ProductDescription": "Áo Thun Nam Ngắn Tay, Thoáng Mát, Chống Nhăn là mẫu áo thun in hình thể thao mới nhất. Áo được thiết kế với form dáng Slim fit, ôm vừa vặn nhưng cũng không quá bó sát, tạo sự thoải mái cho người mặc. Đặc biệt, điểm nhấn của thiết kế này nằm ở họa tiết in chữ nằm vuông góc bên ngực trái của áo bằng công nghệ chuyển nhiệt Plastisol không bóng, bền đẹp, sắc nét, không lo bong tróc trong quá trình sử dụng hay giặt là.  \r\n\r\nVới bảng màu đa dạng, thiết kế trẻ trung, đây được xem là item hiện đại, mang sự năng động, dễ mặc và dễ dàng phối kết hợp cùng nhiều trang phục để phù hợp với nhiều hoàn cảnh khác nhau như mặc ở nhà, đi học, đi chơi, picnic, hẹn hò... ",
-        "Sizes": [
+        "name": "rugged street joggers",
+        "condition": "97",
+        "category": "trousers",
+        "description": "Quần đã được mặc ít lần, trông gần như mới. Vải vẫn giữ độ căng, không bị giãn hoặc phai màu. Có thể có vài nếp nhăn nhỏ nhưng không đáng kể. Khóa kéo và nút vẫn hoạt động tốt, đường may còn chắc chắn.",
+        "gender": "For Men",
+        "price": 12000,
+        "countInStock": 18,
+        "sizes": [
             {
-                "SizeName": "S",
-                "Quantity": 43
+                "name": "L",
+                "count": 3
             },
             {
-                "SizeName": "M",
-                "Quantity": 50
+                "name": "XL",
+                "count": 5
             },
             {
-                "SizeName": "L",
-                "Quantity": 30
+                "name": "2XL",
+                "count": 5
             },
             {
-                "SizeName": "XL",
-                "Quantity": 59
+                "name": "3XL",
+                "count": 5
             }
         ]
     },
     {
-        "ProductID": 153,
-        "ProductName": "Áo Thun Nam Ngắn Tay, Hạ Nhiệt, Thoáng Khí",
-        "productPrice": 279000,
-        "ProductDescription": " Áo Thun Nam, Hạ Nhiệt, Thoáng Khí là một trong những item cơ bản, dễ mặc không thể thiếu trong tủ đồ thời trang hằng ngày. Với thiết kế ngắn tay, cổ tròn kết hợp với form dáng Slim fit ôm vừa vặn, áo thun giúp tôn dáng mà vẫn tạo cảm giác thoải mái, không bó sát vào cơ thể khi mặc. Điểm đặc biệt của sản phẩm là phần họa tiết in chữ RUNNING bằng silicon ứng dụng công nghệ High-tech cao cấp, giúp tăng độ bền đẹp, không lo bong tróc trong quá trình sử dụng. ",
-        "Sizes": [
+        "name": "jet black chic joggers",
+        "condition": "80",
+        "category": "trousers",
+        "description": "Quần đã qua nhiều lần sử dụng, có dấu hiệu hao mòn rõ ràng. Vải có thể bị giãn nhiều ở các khu vực chịu áp lực như gối và eo. Màu sắc có thể phai đi đáng kể, với nhiều nếp nhăn không thể khắc phục. Khóa kéo hoặc nút có thể không còn hoạt động hoàn hảo, và đường may có thể yếu đi hoặc bắt đầu bung ra.",
+        "gender": "For Men",
+        "price": 8750,
+        "countInStock": 14,
+        "sizes": [
             {
-                "SizeName": "S",
-                "Quantity": 54
+                "name": "L",
+                "count": 3
             },
             {
-                "SizeName": "M",
-                "Quantity": 94
+                "name": "XL",
+                "count": 4
             },
             {
-                "SizeName": "L",
-                "Quantity": 51
+                "name": "2XL",
+                "count": 4
             },
             {
-                "SizeName": "XL",
-                "Quantity": 43
+                "name": "3XL",
+                "count": 3
             }
         ]
     }
