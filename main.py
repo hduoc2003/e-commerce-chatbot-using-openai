@@ -22,7 +22,7 @@ openai_client = OpenAI(
 # %%
 # Customize your product list if necessary.
 # gen_product_list()
-with open("product_list.json", "r") as r:
+with open("product_list.json", "r", encoding="utf-8") as r:
     product_list = json.loads(r.read())
 
 context = [
